@@ -1,0 +1,1930 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CheatTable CheatEngineTableVersion="26">
+  <CheatEntries>
+    <CheatEntry>
+      <ID>0</ID>
+      <Description>"gcRobotGlobals"</Description>
+      <Options moManualExpandCollapse="1" moAllowManualCollapseAndExpand="1"/>
+      <LastState RealAddress="00000060"/>
+      <Color>FF0000</Color>
+      <VariableType>String</VariableType>
+      <Length>0</Length>
+      <Unicode>0</Unicode>
+      <CodePage>0</CodePage>
+      <ZeroTerminate>1</ZeroTerminate>
+      <Address>0060</Address>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>1</ID>
+          <Description>"[+0000] Unknown"</Description>
+          <LastState Value="9.183549616E-41" RealAddress="00000060"/>
+          <VariableType>Float</VariableType>
+          <Address>+0</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>2</ID>
+          <Description>"[+0004] Unknown"</Description>
+          <LastState Value="9.219422856E-41" RealAddress="00000064"/>
+          <VariableType>Float</VariableType>
+          <Address>+4</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>3</ID>
+          <Description>"[+0008] Unknown"</Description>
+          <LastState Value="1" RealAddress="00000068"/>
+          <VariableType>Float</VariableType>
+          <Address>+8</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>4</ID>
+          <Description>"[+000C] Unknown"</Description>
+          <LastState Value="70" RealAddress="0000006C"/>
+          <VariableType>Float</VariableType>
+          <Address>+C</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>5</ID>
+          <Description>"[+0010] Unknown4"</Description>
+          <LastState Value="00" RealAddress="00000070"/>
+          <ShowAsHex>1</ShowAsHex>
+          <VariableType>Byte</VariableType>
+          <Address>+10</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>349</ID>
+          <Description>"[+0011] reserved"</Description>
+          <LastState Value="0" RealAddress="00000071"/>
+          <Color>C0C0C0</Color>
+          <VariableType>Byte</VariableType>
+          <Address>+0011</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>350</ID>
+          <Description>"[+0012] reserved"</Description>
+          <LastState Value="128" RealAddress="00000072"/>
+          <Color>C0C0C0</Color>
+          <VariableType>Byte</VariableType>
+          <Address>+0012</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>351</ID>
+          <Description>"[+0013] reserved"</Description>
+          <LastState Value="63" RealAddress="00000073"/>
+          <Color>C0C0C0</Color>
+          <VariableType>Byte</VariableType>
+          <Address>+0013</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>6</ID>
+          <Description>"[+0014] Unknown8"</Description>
+          <LastState Value="3" RealAddress="00000074"/>
+          <VariableType>Float</VariableType>
+          <Address>+14</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>7</ID>
+          <Description>"[+0018] UnknownC"</Description>
+          <LastState Value="20" RealAddress="00000078"/>
+          <VariableType>Float</VariableType>
+          <Address>+18</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>8</ID>
+          <Description>"[+001C] Unknown10"</Description>
+          <LastState Value="6" RealAddress="0000007C"/>
+          <VariableType>Float</VariableType>
+          <Address>+1C</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>9</ID>
+          <Description>"[+0020] Unknown14"</Description>
+          <LastState Value="1" RealAddress="00000080"/>
+          <VariableType>Float</VariableType>
+          <Address>+20</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>10</ID>
+          <Description>"[+0024] Unknown18"</Description>
+          <LastState Value="0.200000003" RealAddress="00000084"/>
+          <VariableType>Float</VariableType>
+          <Address>+24</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>11</ID>
+          <Description>"[+0028] Unknown1C"</Description>
+          <LastState Value="10" RealAddress="00000088"/>
+          <VariableType>Float</VariableType>
+          <Address>+28</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>12</ID>
+          <Description>"[+002C] Unknown20"</Description>
+          <LastState Value="0.6999999881" RealAddress="0000008C"/>
+          <VariableType>Float</VariableType>
+          <Address>+2C</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>13</ID>
+          <Description>"[+0030] Unknown24"</Description>
+          <LastState Value="1.200000048" RealAddress="00000090"/>
+          <VariableType>Float</VariableType>
+          <Address>+30</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>14</ID>
+          <Description>"[+0034] Unknown28"</Description>
+          <LastState Value="5" RealAddress="00000094"/>
+          <VariableType>Float</VariableType>
+          <Address>+34</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>15</ID>
+          <Description>"[+0038] Unknown2C"</Description>
+          <LastState Value="3" RealAddress="00000098"/>
+          <VariableType>Float</VariableType>
+          <Address>+38</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>16</ID>
+          <Description>"[+003C] Unknown30"</Description>
+          <LastState Value="0" RealAddress="0000009C"/>
+          <VariableType>Float</VariableType>
+          <Address>+3C</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>17</ID>
+          <Description>"[+0040] Unknown34"</Description>
+          <LastState Value="0.75" RealAddress="000000A0"/>
+          <VariableType>Float</VariableType>
+          <Address>+40</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>18</ID>
+          <Description>"[+0044] Unknown38"</Description>
+          <LastState Value="0.5" RealAddress="000000A4"/>
+          <VariableType>Float</VariableType>
+          <Address>+44</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>19</ID>
+          <Description>"[+0048] Unknown3C"</Description>
+          <LastState Value="1.5" RealAddress="000000A8"/>
+          <VariableType>Float</VariableType>
+          <Address>+48</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>20</ID>
+          <Description>"[+004C] Unknown40"</Description>
+          <LastState Value="45" RealAddress="000000AC"/>
+          <VariableType>Float</VariableType>
+          <Address>+4C</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>21</ID>
+          <Description>"[+0050] Unknown44"</Description>
+          <LastState Value="0.5" RealAddress="000000B0"/>
+          <VariableType>Float</VariableType>
+          <Address>+50</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>22</ID>
+          <Description>"[+0054] Unknown48"</Description>
+          <LastState Value="0" RealAddress="000000B4"/>
+          <VariableType>Float</VariableType>
+          <Address>+54</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>23</ID>
+          <Description>"[+0058] UnknownInt4C"</Description>
+          <LastState Value="0" RealAddress="000000B8"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>+58</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>24</ID>
+          <Description>"[+005C] UnknownInt50"</Description>
+          <LastState Value="0" RealAddress="000000BC"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>+5C</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>25</ID>
+          <Description>"[+0060] UnknownInt54"</Description>
+          <LastState Value="1065353216" RealAddress="000000C0"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>+60</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>26</ID>
+          <Description>"[+0064] UnknownInt58"</Description>
+          <LastState Value="1028443341" RealAddress="000000C4"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>+64</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>27</ID>
+          <Description>"[+0068] Unknown5C"</Description>
+          <LastState Value="1" RealAddress="000000C8"/>
+          <VariableType>Float</VariableType>
+          <Address>+68</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>362</ID>
+          <Description>"[+006C] Array60"</Description>
+          <Options moManualExpandCollapse="1" moAllowManualCollapseAndExpand="1"/>
+          <LastState Value="0" RealAddress="000000CC"/>
+          <Color>FF0000</Color>
+          <VariableType>4 Bytes</VariableType>
+          <Address>+006C</Address>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>352</ID>
+              <Description>"[+006C] Struct60"</Description>
+              <Options moManualExpandCollapse="1" moAllowManualCollapseAndExpand="1"/>
+              <LastState RealAddress="000000CC"/>
+              <Color>FF0000</Color>
+              <VariableType>String</VariableType>
+              <Length>0</Length>
+              <Unicode>0</Unicode>
+              <CodePage>0</CodePage>
+              <ZeroTerminate>1</ZeroTerminate>
+              <Address>+0000</Address>
+              <CheatEntries>
+                <CheatEntry>
+                  <ID>28</ID>
+                  <Description>"[+006C] Unknown60"</Description>
+                  <LastState Value="0" RealAddress="000000CC"/>
+                  <VariableType>Float</VariableType>
+                  <Address>+0000</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>29</ID>
+                  <Description>"[+0070] Unknown64"</Description>
+                  <LastState Value="5" RealAddress="000000D0"/>
+                  <VariableType>Float</VariableType>
+                  <Address>+0004</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>30</ID>
+                  <Description>"[+0074] Unknown68"</Description>
+                  <LastState Value="50" RealAddress="000000D4"/>
+                  <VariableType>Float</VariableType>
+                  <Address>+0008</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>31</ID>
+                  <Description>"[+0078] Unknown6C"</Description>
+                  <LastState Value="0.200000003" RealAddress="000000D8"/>
+                  <VariableType>Float</VariableType>
+                  <Address>+000C</Address>
+                </CheatEntry>
+              </CheatEntries>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>353</ID>
+              <Description>"[+007C] Struct70"</Description>
+              <Options moManualExpandCollapse="1" moAllowManualCollapseAndExpand="1"/>
+              <LastState RealAddress="000000DC"/>
+              <Color>FF0000</Color>
+              <VariableType>String</VariableType>
+              <Length>0</Length>
+              <Unicode>0</Unicode>
+              <CodePage>0</CodePage>
+              <ZeroTerminate>1</ZeroTerminate>
+              <Address>+0010</Address>
+              <CheatEntries>
+                <CheatEntry>
+                  <ID>32</ID>
+                  <Description>"[+007C] Unknown70"</Description>
+                  <LastState Value="0.5" RealAddress="000000DC"/>
+                  <VariableType>Float</VariableType>
+                  <Address>+0000</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>33</ID>
+                  <Description>"[+0080] Unknown74"</Description>
+                  <LastState Value="0.150000006" RealAddress="000000E0"/>
+                  <VariableType>Float</VariableType>
+                  <Address>+0004</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>34</ID>
+                  <Description>"[+0084] Unknown78"</Description>
+                  <LastState Value="30" RealAddress="000000E4"/>
+                  <VariableType>Float</VariableType>
+                  <Address>+0008</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>35</ID>
+                  <Description>"[+0088] Unknown7C"</Description>
+                  <LastState Value="1" RealAddress="000000E8"/>
+                  <VariableType>Float</VariableType>
+                  <Address>+000C</Address>
+                </CheatEntry>
+              </CheatEntries>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>354</ID>
+              <Description>"[+008C] Struct80"</Description>
+              <Options moManualExpandCollapse="1" moAllowManualCollapseAndExpand="1"/>
+              <LastState RealAddress="000000EC"/>
+              <Color>FF0000</Color>
+              <VariableType>String</VariableType>
+              <Length>0</Length>
+              <Unicode>0</Unicode>
+              <CodePage>0</CodePage>
+              <ZeroTerminate>1</ZeroTerminate>
+              <Address>+0020</Address>
+              <CheatEntries>
+                <CheatEntry>
+                  <ID>36</ID>
+                  <Description>"[+008C] Unknown80"</Description>
+                  <LastState Value="1.96181785E-44" RealAddress="000000EC"/>
+                  <VariableType>Float</VariableType>
+                  <Address>+0000</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>37</ID>
+                  <Description>"[+0090] Unknown84"</Description>
+                  <LastState Value="12" RealAddress="000000F0"/>
+                  <VariableType>Float</VariableType>
+                  <Address>+0004</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>38</ID>
+                  <Description>"[+0094] Unknown88"</Description>
+                  <LastState Value="0" RealAddress="000000F4"/>
+                  <VariableType>Float</VariableType>
+                  <Address>+0008</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>39</ID>
+                  <Description>"[+0098] Unknown8C"</Description>
+                  <LastState Value="1.96181785E-44" RealAddress="000000F8"/>
+                  <VariableType>Float</VariableType>
+                  <Address>+000C</Address>
+                </CheatEntry>
+              </CheatEntries>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>355</ID>
+              <Description>"[+009C] Struct90"</Description>
+              <Options moManualExpandCollapse="1" moAllowManualCollapseAndExpand="1"/>
+              <LastState RealAddress="000000FC"/>
+              <Color>FF0000</Color>
+              <VariableType>String</VariableType>
+              <Length>0</Length>
+              <Unicode>0</Unicode>
+              <CodePage>0</CodePage>
+              <ZeroTerminate>1</ZeroTerminate>
+              <Address>+0030</Address>
+              <CheatEntries>
+                <CheatEntry>
+                  <ID>40</ID>
+                  <Description>"[+009C] Unknown90"</Description>
+                  <LastState Value="2" RealAddress="000000FC"/>
+                  <VariableType>Float</VariableType>
+                  <Address>+0000</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>41</ID>
+                  <Description>"[+00A0] Unknown94"</Description>
+                  <LastState Value="3" RealAddress="00000100"/>
+                  <VariableType>Float</VariableType>
+                  <Address>+0004</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>42</ID>
+                  <Description>"[+00A4] Unknown98"</Description>
+                  <LastState Value="5" RealAddress="00000104"/>
+                  <VariableType>Float</VariableType>
+                  <Address>+0008</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>43</ID>
+                  <Description>"[+00A8] Unknown9C"</Description>
+                  <LastState Value="1.200000048" RealAddress="00000108"/>
+                  <VariableType>Float</VariableType>
+                  <Address>+000C</Address>
+                </CheatEntry>
+              </CheatEntries>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>356</ID>
+              <Description>"[+00AC] StructA0"</Description>
+              <Options moManualExpandCollapse="1" moAllowManualCollapseAndExpand="1"/>
+              <LastState RealAddress="0000010C"/>
+              <Color>FF0000</Color>
+              <VariableType>String</VariableType>
+              <Length>0</Length>
+              <Unicode>0</Unicode>
+              <CodePage>0</CodePage>
+              <ZeroTerminate>1</ZeroTerminate>
+              <Address>+0040</Address>
+              <CheatEntries>
+                <CheatEntry>
+                  <ID>44</ID>
+                  <Description>"[+00AC] UnknownA0"</Description>
+                  <LastState Value="4" RealAddress="0000010C"/>
+                  <VariableType>Float</VariableType>
+                  <Address>+0000</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>45</ID>
+                  <Description>"[+00B0] UnknownA4"</Description>
+                  <LastState Value="15" RealAddress="00000110"/>
+                  <VariableType>Float</VariableType>
+                  <Address>+0004</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>46</ID>
+                  <Description>"[+00B4] UnknownA8"</Description>
+                  <LastState Value="30" RealAddress="00000114"/>
+                  <VariableType>Float</VariableType>
+                  <Address>+0008</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>47</ID>
+                  <Description>"[+00B8] UnknownAC"</Description>
+                  <LastState Value="-40" RealAddress="00000118"/>
+                  <VariableType>Float</VariableType>
+                  <Address>+000C</Address>
+                </CheatEntry>
+              </CheatEntries>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>357</ID>
+              <Description>"[+00BC] StructB0"</Description>
+              <Options moManualExpandCollapse="1" moAllowManualCollapseAndExpand="1"/>
+              <LastState RealAddress="0000011C"/>
+              <Color>FF0000</Color>
+              <VariableType>String</VariableType>
+              <Length>0</Length>
+              <Unicode>0</Unicode>
+              <CodePage>0</CodePage>
+              <ZeroTerminate>1</ZeroTerminate>
+              <Address>+0050</Address>
+              <CheatEntries>
+                <CheatEntry>
+                  <ID>48</ID>
+                  <Description>"[+00BC] UnknownB0"</Description>
+                  <LastState Value="0" RealAddress="0000011C"/>
+                  <VariableType>Float</VariableType>
+                  <Address>+0000</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>49</ID>
+                  <Description>"[+00C0] UnknownB4"</Description>
+                  <LastState Value="300" RealAddress="00000120"/>
+                  <VariableType>Float</VariableType>
+                  <Address>+0004</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>50</ID>
+                  <Description>"[+00C4] UnknownB8"</Description>
+                  <LastState Value="1000" RealAddress="00000124"/>
+                  <VariableType>Float</VariableType>
+                  <Address>+0008</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>51</ID>
+                  <Description>"[+00C8] UnknownBC"</Description>
+                  <LastState Value="3" RealAddress="00000128"/>
+                  <VariableType>Float</VariableType>
+                  <Address>+000C</Address>
+                </CheatEntry>
+              </CheatEntries>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>358</ID>
+              <Description>"[+00CC] StructC0"</Description>
+              <Options moManualExpandCollapse="1" moAllowManualCollapseAndExpand="1"/>
+              <LastState RealAddress="0000012C"/>
+              <Color>FF0000</Color>
+              <VariableType>String</VariableType>
+              <Length>0</Length>
+              <Unicode>0</Unicode>
+              <CodePage>0</CodePage>
+              <ZeroTerminate>1</ZeroTerminate>
+              <Address>+0060</Address>
+              <CheatEntries>
+                <CheatEntry>
+                  <ID>52</ID>
+                  <Description>"[+00CC] UnknownC0"</Description>
+                  <LastState Value="10" RealAddress="0000012C"/>
+                  <VariableType>Float</VariableType>
+                  <Address>+0000</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>53</ID>
+                  <Description>"[+00D0] UnknownC4"</Description>
+                  <LastState Value="30" RealAddress="00000130"/>
+                  <VariableType>Float</VariableType>
+                  <Address>+0004</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>54</ID>
+                  <Description>"[+00D4] UnknownC8"</Description>
+                  <LastState Value="10" RealAddress="00000134"/>
+                  <VariableType>Float</VariableType>
+                  <Address>+0008</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>55</ID>
+                  <Description>"[+00D8] UnknownCC"</Description>
+                  <LastState Value="-10" RealAddress="00000138"/>
+                  <VariableType>Float</VariableType>
+                  <Address>+000C</Address>
+                </CheatEntry>
+              </CheatEntries>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>359</ID>
+              <Description>"[+00DC] StructD0"</Description>
+              <Options moManualExpandCollapse="1" moAllowManualCollapseAndExpand="1"/>
+              <LastState RealAddress="0000013C"/>
+              <Color>FF0000</Color>
+              <VariableType>String</VariableType>
+              <Length>0</Length>
+              <Unicode>0</Unicode>
+              <CodePage>0</CodePage>
+              <ZeroTerminate>1</ZeroTerminate>
+              <Address>+0070</Address>
+              <CheatEntries>
+                <CheatEntry>
+                  <ID>56</ID>
+                  <Description>"[+00DC] UnknownD0"</Description>
+                  <LastState Value="20" RealAddress="0000013C"/>
+                  <VariableType>Float</VariableType>
+                  <Address>+0000</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>57</ID>
+                  <Description>"[+00E0] UnknownD4"</Description>
+                  <LastState Value="0" RealAddress="00000140"/>
+                  <VariableType>Float</VariableType>
+                  <Address>+0004</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>58</ID>
+                  <Description>"[+00E4] UnknownD8"</Description>
+                  <LastState Value="0.200000003" RealAddress="00000144"/>
+                  <VariableType>Float</VariableType>
+                  <Address>+0008</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>59</ID>
+                  <Description>"[+00E8] UnknownDC"</Description>
+                  <LastState Value="1" RealAddress="00000148"/>
+                  <VariableType>Float</VariableType>
+                  <Address>+000C</Address>
+                </CheatEntry>
+              </CheatEntries>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>360</ID>
+              <Description>"[+00EC] StructE0"</Description>
+              <Options moManualExpandCollapse="1" moAllowManualCollapseAndExpand="1"/>
+              <LastState RealAddress="0000014C"/>
+              <Color>FF0000</Color>
+              <VariableType>String</VariableType>
+              <Length>0</Length>
+              <Unicode>0</Unicode>
+              <CodePage>0</CodePage>
+              <ZeroTerminate>1</ZeroTerminate>
+              <Address>+0080</Address>
+              <CheatEntries>
+                <CheatEntry>
+                  <ID>60</ID>
+                  <Description>"[+00EC] UnknownE0"</Description>
+                  <LastState Value="8" RealAddress="0000014C"/>
+                  <VariableType>Float</VariableType>
+                  <Address>+0000</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>61</ID>
+                  <Description>"[+00F0] UnknownE4"</Description>
+                  <LastState Value="0.3000000119" RealAddress="00000150"/>
+                  <VariableType>Float</VariableType>
+                  <Address>+0004</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>62</ID>
+                  <Description>"[+00F4] UnknownE8"</Description>
+                  <LastState Value="10" RealAddress="00000154"/>
+                  <VariableType>Float</VariableType>
+                  <Address>+0008</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>63</ID>
+                  <Description>"[+00F8] UnknownEC"</Description>
+                  <LastState Value="700" RealAddress="00000158"/>
+                  <VariableType>Float</VariableType>
+                  <Address>+000C</Address>
+                </CheatEntry>
+              </CheatEntries>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>361</ID>
+              <Description>"[+00FC] StructF0"</Description>
+              <Options moManualExpandCollapse="1" moAllowManualCollapseAndExpand="1"/>
+              <LastState RealAddress="0000015C"/>
+              <Color>FF0000</Color>
+              <VariableType>String</VariableType>
+              <Length>0</Length>
+              <Unicode>0</Unicode>
+              <CodePage>0</CodePage>
+              <ZeroTerminate>1</ZeroTerminate>
+              <Address>+0090</Address>
+              <CheatEntries>
+                <CheatEntry>
+                  <ID>64</ID>
+                  <Description>"[+00FC] UnknownF0"</Description>
+                  <LastState Value="5.605193857E-45" RealAddress="0000015C"/>
+                  <VariableType>Float</VariableType>
+                  <Address>+0000</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>65</ID>
+                  <Description>"[+0100] UnknownF4"</Description>
+                  <LastState Value="1.121038771E-44" RealAddress="00000160"/>
+                  <VariableType>Float</VariableType>
+                  <Address>+0004</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>66</ID>
+                  <Description>"[+0104] UnknownF8"</Description>
+                  <LastState Value="1.261168618E-44" RealAddress="00000164"/>
+                  <VariableType>Float</VariableType>
+                  <Address>+0008</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>67</ID>
+                  <Description>"[+0108] UnknownFC"</Description>
+                  <LastState Value="40" RealAddress="00000168"/>
+                  <VariableType>Float</VariableType>
+                  <Address>+000C</Address>
+                </CheatEntry>
+              </CheatEntries>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>68</ID>
+          <Description>"[+010C] reserved"</Description>
+          <LastState Value="00 00 A0 42" RealAddress="0000016C"/>
+          <ShowAsHex>1</ShowAsHex>
+          <Color>C0C0C0</Color>
+          <VariableType>Array of byte</VariableType>
+          <ByteLength>4</ByteLength>
+          <Address>+10C</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>223</ID>
+          <Description>"[+0110] RobotLaser.Walker"</Description>
+          <Options moManualExpandCollapse="1" moAllowManualCollapseAndExpand="1"/>
+          <LastState RealAddress="00000170"/>
+          <Color>FF0000</Color>
+          <VariableType>String</VariableType>
+          <Length>0</Length>
+          <Unicode>0</Unicode>
+          <CodePage>0</CodePage>
+          <ZeroTerminate>1</ZeroTerminate>
+          <Address>+0110</Address>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>69</ID>
+              <Description>"[+0110] ID"</Description>
+              <LastState RealAddress="00000170"/>
+              <VariableType>String</VariableType>
+              <Length>16</Length>
+              <Unicode>0</Unicode>
+              <CodePage>0</CodePage>
+              <ZeroTerminate>1</ZeroTerminate>
+              <Address>+00000</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>73</ID>
+              <Description>"[+0120] SpringTime"</Description>
+              <LastState Value="0.6999999881" RealAddress="00000180"/>
+              <VariableType>Float</VariableType>
+              <Address>+0010</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>74</ID>
+              <Description>"[+0124] ActiveSpringTime"</Description>
+              <LastState Value="0.1000000015" RealAddress="00000184"/>
+              <VariableType>Float</VariableType>
+              <Address>+0014</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>75</ID>
+              <Description>"[+0128] MiningDamage"</Description>
+              <LastState Value="1065353216" RealAddress="00000188"/>
+              <VariableType>4 Bytes</VariableType>
+              <Address>+0018</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>76</ID>
+              <Description>"[+012C] ChargeTime"</Description>
+              <LastState Value="2" RealAddress="0000018C"/>
+              <VariableType>Float</VariableType>
+              <Address>+001C</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>77</ID>
+              <Description>"[+0130] LaserTime"</Description>
+              <LastState Value="0.5" RealAddress="00000190"/>
+              <VariableType>Float</VariableType>
+              <Address>+0020</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>78</ID>
+              <Description>"[+0134] LightChargeSize"</Description>
+              <LastState Value="3" RealAddress="00000194"/>
+              <VariableType>Float</VariableType>
+              <Address>+0024</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>79</ID>
+              <Description>"[+0138] LightAttackSize"</Description>
+              <LastState Value="1" RealAddress="00000198"/>
+              <VariableType>Float</VariableType>
+              <Address>+0028</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>80</ID>
+              <Description>"[+013C] Unknown/Unused"</Description>
+              <LastState Value="00 00 80 3F" RealAddress="0000019C"/>
+              <ShowAsHex>1</ShowAsHex>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>4</ByteLength>
+              <Address>+002C</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>227</ID>
+              <Description>"[+0140] LightOffset"</Description>
+              <Options moManualExpandCollapse="1" moAllowManualCollapseAndExpand="1"/>
+              <LastState RealAddress="000001A0"/>
+              <Color>FF0000</Color>
+              <VariableType>String</VariableType>
+              <Length>0</Length>
+              <Unicode>0</Unicode>
+              <CodePage>0</CodePage>
+              <ZeroTerminate>1</ZeroTerminate>
+              <Address>+0030</Address>
+              <CheatEntries>
+                <CheatEntry>
+                  <ID>81</ID>
+                  <Description>"[+0140] X"</Description>
+                  <LastState Value="4" RealAddress="000001A0"/>
+                  <VariableType>Float</VariableType>
+                  <Address>+0000</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>82</ID>
+                  <Description>"[+0144] Y"</Description>
+                  <LastState Value="1" RealAddress="000001A4"/>
+                  <VariableType>Float</VariableType>
+                  <Address>+0004</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>83</ID>
+                  <Description>"[+0148] Z"</Description>
+                  <LastState Value="2" RealAddress="000001A8"/>
+                  <VariableType>Float</VariableType>
+                  <Address>+0008</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>84</ID>
+                  <Description>"[+014C] W"</Description>
+                  <LastState Value="1.25" RealAddress="000001AC"/>
+                  <VariableType>Float</VariableType>
+                  <Address>+000C</Address>
+                </CheatEntry>
+              </CheatEntries>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>225</ID>
+              <Description>"[+0150] LaserColor"</Description>
+              <Options moManualExpandCollapse="1" moAllowManualCollapseAndExpand="1"/>
+              <LastState RealAddress="000001B0"/>
+              <Color>FF0000</Color>
+              <VariableType>String</VariableType>
+              <Length>0</Length>
+              <Unicode>0</Unicode>
+              <CodePage>0</CodePage>
+              <ZeroTerminate>1</ZeroTerminate>
+              <Address>+0040</Address>
+              <CheatEntries>
+                <CheatEntry>
+                  <ID>85</ID>
+                  <Description>"[+0150] R"</Description>
+                  <LastState Value="2" RealAddress="000001B0"/>
+                  <VariableType>Float</VariableType>
+                  <Address>+0000</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>86</ID>
+                  <Description>"[+0154] G"</Description>
+                  <LastState Value="0.400000006" RealAddress="000001B4"/>
+                  <VariableType>Float</VariableType>
+                  <Address>+0004</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>87</ID>
+                  <Description>"[+0158] B"</Description>
+                  <LastState Value="4" RealAddress="000001B8"/>
+                  <VariableType>Float</VariableType>
+                  <Address>+0008</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>88</ID>
+                  <Description>"[+015C] A"</Description>
+                  <LastState Value="10" RealAddress="000001BC"/>
+                  <VariableType>Float</VariableType>
+                  <Address>+000C</Address>
+                </CheatEntry>
+              </CheatEntries>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>224</ID>
+          <Description>"[+0160] RobotLaser.Quad"</Description>
+          <Options moManualExpandCollapse="1" moAllowManualCollapseAndExpand="1"/>
+          <LastState RealAddress="000001C0"/>
+          <Color>FF0000</Color>
+          <VariableType>String</VariableType>
+          <Length>0</Length>
+          <Unicode>0</Unicode>
+          <CodePage>0</CodePage>
+          <ZeroTerminate>1</ZeroTerminate>
+          <Address>+0160</Address>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>89</ID>
+              <Description>"[+0160] ID"</Description>
+              <LastState RealAddress="000001C0"/>
+              <VariableType>String</VariableType>
+              <Length>16</Length>
+              <Unicode>0</Unicode>
+              <CodePage>0</CodePage>
+              <ZeroTerminate>1</ZeroTerminate>
+              <Address>+0000</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>93</ID>
+              <Description>"[+0170] SpringTime"</Description>
+              <LastState Value="150" RealAddress="000001D0"/>
+              <VariableType>Float</VariableType>
+              <Address>+0010</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>94</ID>
+              <Description>"[+0174] ActiveSpringTime"</Description>
+              <LastState Value="0.6999999881" RealAddress="000001D4"/>
+              <VariableType>Float</VariableType>
+              <Address>+0014</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>95</ID>
+              <Description>"[+0178] MiningDamage"</Description>
+              <LastState Value="1036831949" RealAddress="000001D8"/>
+              <VariableType>4 Bytes</VariableType>
+              <Address>+0018</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>96</ID>
+              <Description>"[+017C] ChargeTime"</Description>
+              <LastState Value="2.5" RealAddress="000001DC"/>
+              <VariableType>Float</VariableType>
+              <Address>+001C</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>97</ID>
+              <Description>"[+0180] LaserTime"</Description>
+              <LastState Value="3" RealAddress="000001E0"/>
+              <VariableType>Float</VariableType>
+              <Address>+0020</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>98</ID>
+              <Description>"[+0184] LightChargeSize"</Description>
+              <LastState Value="1" RealAddress="000001E4"/>
+              <VariableType>Float</VariableType>
+              <Address>+0024</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>99</ID>
+              <Description>"[+0188] LightAttackSize"</Description>
+              <LastState Value="3" RealAddress="000001E8"/>
+              <VariableType>Float</VariableType>
+              <Address>+0028</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>100</ID>
+              <Description>"[+018C] Unknown/Unused"</Description>
+              <LastState Value="0.3000000119" RealAddress="000001EC"/>
+              <VariableType>Float</VariableType>
+              <Address>+002C</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>228</ID>
+              <Description>"[+0190] LightOffset"</Description>
+              <Options moManualExpandCollapse="1" moAllowManualCollapseAndExpand="1"/>
+              <LastState RealAddress="000001F0"/>
+              <Color>FF0000</Color>
+              <VariableType>String</VariableType>
+              <Length>0</Length>
+              <Unicode>0</Unicode>
+              <CodePage>0</CodePage>
+              <ZeroTerminate>1</ZeroTerminate>
+              <Address>+0030</Address>
+              <CheatEntries>
+                <CheatEntry>
+                  <ID>101</ID>
+                  <Description>"[+0190] X"</Description>
+                  <LastState Value="0.8000000119" RealAddress="000001F0"/>
+                  <VariableType>Float</VariableType>
+                  <Address>+0000</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>102</ID>
+                  <Description>"[+0194] Y"</Description>
+                  <LastState Value="6" RealAddress="000001F4"/>
+                  <VariableType>Float</VariableType>
+                  <Address>+0004</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>103</ID>
+                  <Description>"[+0198] Z"</Description>
+                  <LastState Value="5" RealAddress="000001F8"/>
+                  <VariableType>Float</VariableType>
+                  <Address>+0008</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>104</ID>
+                  <Description>"[+019C] W"</Description>
+                  <LastState Value="2" RealAddress="000001FC"/>
+                  <VariableType>Float</VariableType>
+                  <Address>+000C</Address>
+                </CheatEntry>
+              </CheatEntries>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>226</ID>
+              <Description>"[+01A0] LaserColor"</Description>
+              <Options moManualExpandCollapse="1" moAllowManualCollapseAndExpand="1"/>
+              <LastState RealAddress="00000200"/>
+              <Color>FF0000</Color>
+              <VariableType>String</VariableType>
+              <Length>0</Length>
+              <Unicode>0</Unicode>
+              <CodePage>0</CodePage>
+              <ZeroTerminate>1</ZeroTerminate>
+              <Address>+0040</Address>
+              <CheatEntries>
+                <CheatEntry>
+                  <ID>105</ID>
+                  <Description>"[+01A0] R"</Description>
+                  <LastState Value="1.25" RealAddress="00000200"/>
+                  <VariableType>Float</VariableType>
+                  <Address>+0000</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>106</ID>
+                  <Description>"[+01A4] G"</Description>
+                  <LastState Value="2" RealAddress="00000204"/>
+                  <VariableType>Float</VariableType>
+                  <Address>+0004</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>107</ID>
+                  <Description>"[+01A8] B"</Description>
+                  <LastState Value="0.400000006" RealAddress="00000208"/>
+                  <VariableType>Float</VariableType>
+                  <Address>+0008</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>108</ID>
+                  <Description>"[+01AC] A"</Description>
+                  <LastState Value="4" RealAddress="0000020C"/>
+                  <VariableType>Float</VariableType>
+                  <Address>+000C</Address>
+                </CheatEntry>
+              </CheatEntries>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>233</ID>
+          <Description>"[+01B0] DroneData"</Description>
+          <Options moManualExpandCollapse="1" moAllowManualCollapseAndExpand="1"/>
+          <LastState RealAddress="00000210"/>
+          <Color>FF0000</Color>
+          <VariableType>String</VariableType>
+          <Length>0</Length>
+          <Unicode>0</Unicode>
+          <CodePage>0</CodePage>
+          <ZeroTerminate>1</ZeroTerminate>
+          <Address>+01B0</Address>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>221</ID>
+              <Description>"[+01B0] DroneControl.Patrol"</Description>
+              <Options moManualExpandCollapse="1" moAllowManualCollapseAndExpand="1"/>
+              <LastState RealAddress="00000210"/>
+              <Color>FF0000</Color>
+              <VariableType>String</VariableType>
+              <Length>0</Length>
+              <Unicode>0</Unicode>
+              <CodePage>0</CodePage>
+              <ZeroTerminate>1</ZeroTerminate>
+              <Address>+0000</Address>
+              <CheatEntries>
+                <CheatEntry>
+                  <ID>109</ID>
+                  <Description>"[+01B0] MaxSpeed"</Description>
+                  <LastState Value="200" RealAddress="00000210"/>
+                  <VariableType>Float</VariableType>
+                  <Address>+0000</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>110</ID>
+                  <Description>"[+01B4] Strength"</Description>
+                  <LastState Value="1200" RealAddress="00000214"/>
+                  <VariableType>Float</VariableType>
+                  <Address>+0004</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>111</ID>
+                  <Description>"[+01B8] DirectionBrake"</Description>
+                  <LastState Value="500" RealAddress="00000218"/>
+                  <VariableType>Float</VariableType>
+                  <Address>+0008</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>112</ID>
+                  <Description>"[+01BC] MinHeight"</Description>
+                  <LastState Value="5000" RealAddress="0000021C"/>
+                  <VariableType>Float</VariableType>
+                  <Address>+000C</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>113</ID>
+                  <Description>"[+01C0] MaxHeight"</Description>
+                  <LastState Value="-30" RealAddress="00000220"/>
+                  <VariableType>Float</VariableType>
+                  <Address>+0010</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>114</ID>
+                  <Description>"[+01C4] HeightAdjustStrength"</Description>
+                  <LastState Value="9" RealAddress="00000224"/>
+                  <VariableType>Float</VariableType>
+                  <Address>+0014</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>115</ID>
+                  <Description>"[+01C8] HeightAdjustDownStrength"</Description>
+                  <LastState Value="60" RealAddress="00000228"/>
+                  <VariableType>Float</VariableType>
+                  <Address>+0018</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>116</ID>
+                  <Description>"[+01CC] LookStrength"</Description>
+                  <LastState Value="3.503246161E-44" RealAddress="0000022C"/>
+                  <VariableType>Float</VariableType>
+                  <Address>+001C</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>117</ID>
+                  <Description>"[+01D0] StopTime"</Description>
+                  <LastState Value="5.605193857E-45" RealAddress="00000230"/>
+                  <VariableType>Float</VariableType>
+                  <Address>+0020</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>118</ID>
+                  <Description>"[+01D4] RepelForce"</Description>
+                  <LastState Value="0.1000000015" RealAddress="00000234"/>
+                  <VariableType>Float</VariableType>
+                  <Address>+0024</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>119</ID>
+                  <Description>"[+01D8] RepelRange"</Description>
+                  <LastState Value="10000" RealAddress="00000238"/>
+                  <VariableType>Float</VariableType>
+                  <Address>+0028</Address>
+                </CheatEntry>
+              </CheatEntries>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>222</ID>
+              <Description>"[+01DC] DroneControl.Attack"</Description>
+              <Options moManualExpandCollapse="1" moAllowManualCollapseAndExpand="1"/>
+              <LastState RealAddress="0000023C"/>
+              <Color>FF0000</Color>
+              <VariableType>String</VariableType>
+              <Length>0</Length>
+              <Unicode>0</Unicode>
+              <CodePage>0</CodePage>
+              <ZeroTerminate>1</ZeroTerminate>
+              <Address>+002C</Address>
+              <CheatEntries>
+                <CheatEntry>
+                  <ID>120</ID>
+                  <Description>"[+01DC] MaxSpeed"</Description>
+                  <LastState Value="10" RealAddress="0000023C"/>
+                  <VariableType>Float</VariableType>
+                  <Address>+0000</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>121</ID>
+                  <Description>"[+01E0] Strength"</Description>
+                  <LastState Value="90" RealAddress="00000240"/>
+                  <VariableType>Float</VariableType>
+                  <Address>+0004</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>122</ID>
+                  <Description>"[+01E4] DirectionBrake"</Description>
+                  <LastState Value="200" RealAddress="00000244"/>
+                  <VariableType>Float</VariableType>
+                  <Address>+0008</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>123</ID>
+                  <Description>"[+01E8] MinHeight"</Description>
+                  <LastState Value="5000" RealAddress="00000248"/>
+                  <VariableType>Float</VariableType>
+                  <Address>+000C</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>124</ID>
+                  <Description>"[+01EC] MaxHeight"</Description>
+                  <LastState Value="50" RealAddress="0000024C"/>
+                  <VariableType>Float</VariableType>
+                  <Address>+0010</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>125</ID>
+                  <Description>"[+01F0] HeightAdjustStrength"</Description>
+                  <LastState Value="0.3000000119" RealAddress="00000250"/>
+                  <VariableType>Float</VariableType>
+                  <Address>+0014</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>126</ID>
+                  <Description>"[+01F4] HeightAdjustDownStrength"</Description>
+                  <LastState Value="8" RealAddress="00000254"/>
+                  <VariableType>Float</VariableType>
+                  <Address>+0018</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>127</ID>
+                  <Description>"[+01F8] LookStrength"</Description>
+                  <LastState Value="1" RealAddress="00000258"/>
+                  <VariableType>Float</VariableType>
+                  <Address>+001C</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>128</ID>
+                  <Description>"[+01FC] StopTime"</Description>
+                  <LastState Value="0" RealAddress="0000025C"/>
+                  <VariableType>Float</VariableType>
+                  <Address>+0020</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>129</ID>
+                  <Description>"[+0200] RepelForce"</Description>
+                  <LastState Value="0.1689999998" RealAddress="00000260"/>
+                  <VariableType>Float</VariableType>
+                  <Address>+0024</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>130</ID>
+                  <Description>"[+0204] RepelRange"</Description>
+                  <LastState Value="0.6679999828" RealAddress="00000264"/>
+                  <VariableType>Float</VariableType>
+                  <Address>+0028</Address>
+                </CheatEntry>
+              </CheatEntries>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>230</ID>
+              <Description>"[+0208] DroneControl.Search"</Description>
+              <Options moManualExpandCollapse="1" moAllowManualCollapseAndExpand="1"/>
+              <LastState RealAddress="00000268"/>
+              <Color>FF0000</Color>
+              <VariableType>String</VariableType>
+              <Length>0</Length>
+              <Unicode>0</Unicode>
+              <CodePage>0</CodePage>
+              <ZeroTerminate>1</ZeroTerminate>
+              <Address>+0058</Address>
+              <CheatEntries>
+                <CheatEntry>
+                  <ID>131</ID>
+                  <Description>"[+0208] MaxSpeed"</Description>
+                  <LastState Value="1" RealAddress="00000268"/>
+                  <VariableType>Float</VariableType>
+                  <Address>+0000</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>132</ID>
+                  <Description>"[+020C] Strength"</Description>
+                  <LastState Value="1" RealAddress="0000026C"/>
+                  <VariableType>Float</VariableType>
+                  <Address>+0004</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>133</ID>
+                  <Description>"[+0210] DirectionBrake"</Description>
+                  <LastState Value="-0.6000000238" RealAddress="00000270"/>
+                  <VariableType>Float</VariableType>
+                  <Address>+0008</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>134</ID>
+                  <Description>"[+0214] MinHeight"</Description>
+                  <LastState Value="0.3000000119" RealAddress="00000274"/>
+                  <VariableType>Float</VariableType>
+                  <Address>+000C</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>135</ID>
+                  <Description>"[+0218] MaxHeight"</Description>
+                  <LastState Value="0" RealAddress="00000278"/>
+                  <VariableType>Float</VariableType>
+                  <Address>+0010</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>136</ID>
+                  <Description>"[+021C] HeightAdjustStrength"</Description>
+                  <LastState Value="0" RealAddress="0000027C"/>
+                  <VariableType>Float</VariableType>
+                  <Address>+0014</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>137</ID>
+                  <Description>"[+0220] HeightAdjustDownStrength"</Description>
+                  <LastState Value="2" RealAddress="00000280"/>
+                  <VariableType>Float</VariableType>
+                  <Address>+0018</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>138</ID>
+                  <Description>"[+0224] LookStrength"</Description>
+                  <LastState Value="0" RealAddress="00000284"/>
+                  <VariableType>Float</VariableType>
+                  <Address>+001C</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>139</ID>
+                  <Description>"[+0228] StopTime"</Description>
+                  <LastState Value="0" RealAddress="00000288"/>
+                  <VariableType>Float</VariableType>
+                  <Address>+0020</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>140</ID>
+                  <Description>"[+022C] RepelForce"</Description>
+                  <LastState Value="0" RealAddress="0000028C"/>
+                  <VariableType>Float</VariableType>
+                  <Address>+0024</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>141</ID>
+                  <Description>"[+0230] RepelRange"</Description>
+                  <LastState Value="4" RealAddress="00000290"/>
+                  <VariableType>Float</VariableType>
+                  <Address>+0028</Address>
+                </CheatEntry>
+              </CheatEntries>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>231</ID>
+              <Description>"[+0234] DroneControl.Scan"</Description>
+              <Options moManualExpandCollapse="1" moAllowManualCollapseAndExpand="1"/>
+              <LastState RealAddress="00000294"/>
+              <Color>FF0000</Color>
+              <VariableType>String</VariableType>
+              <Length>0</Length>
+              <Unicode>0</Unicode>
+              <CodePage>0</CodePage>
+              <ZeroTerminate>1</ZeroTerminate>
+              <Address>+0084</Address>
+              <CheatEntries>
+                <CheatEntry>
+                  <ID>142</ID>
+                  <Description>"[+0234] MaxSpeed"</Description>
+                  <LastState Value="1" RealAddress="00000294"/>
+                  <VariableType>Float</VariableType>
+                  <Address>+0000</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>143</ID>
+                  <Description>"[+0238] Strength"</Description>
+                  <LastState Value="100" RealAddress="00000298"/>
+                  <VariableType>Float</VariableType>
+                  <Address>+0004</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>144</ID>
+                  <Description>"[+023C] DirectionBrake"</Description>
+                  <LastState Value="2000" RealAddress="0000029C"/>
+                  <VariableType>Float</VariableType>
+                  <Address>+0008</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>145</ID>
+                  <Description>"[+0240] MinHeight"</Description>
+                  <LastState Value="1" RealAddress="000002A0"/>
+                  <VariableType>Float</VariableType>
+                  <Address>+000C</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>146</ID>
+                  <Description>"[+0244] MaxHeight"</Description>
+                  <LastState Value="8" RealAddress="000002A4"/>
+                  <VariableType>Float</VariableType>
+                  <Address>+0010</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>147</ID>
+                  <Description>"[+0248] HeightAdjustStrength"</Description>
+                  <LastState Value="-10" RealAddress="000002A8"/>
+                  <VariableType>Float</VariableType>
+                  <Address>+0014</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>148</ID>
+                  <Description>"[+024C] HeightAdjustDownStrength"</Description>
+                  <LastState Value="45" RealAddress="000002AC"/>
+                  <VariableType>Float</VariableType>
+                  <Address>+0018</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>149</ID>
+                  <Description>"[+0250] LookStrength"</Description>
+                  <LastState Value="5" RealAddress="000002B0"/>
+                  <VariableType>Float</VariableType>
+                  <Address>+001C</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>150</ID>
+                  <Description>"[+0254] StopTime"</Description>
+                  <LastState Value="110" RealAddress="000002B4"/>
+                  <VariableType>Float</VariableType>
+                  <Address>+0020</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>151</ID>
+                  <Description>"[+0258] RepelForce"</Description>
+                  <LastState Value="3.587324069E-43" RealAddress="000002B8"/>
+                  <VariableType>Float</VariableType>
+                  <Address>+0024</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>152</ID>
+                  <Description>"[+025C] RepelRange"</Description>
+                  <LastState Value="10000" RealAddress="000002BC"/>
+                  <VariableType>Float</VariableType>
+                  <Address>+0028</Address>
+                </CheatEntry>
+              </CheatEntries>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>278</ID>
+              <Description>"[+0260] CollisionAvoidOffset"</Description>
+              <LastState Value="10" RealAddress="000002C0"/>
+              <VariableType>Float</VariableType>
+              <Address>+00B0</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>279</ID>
+              <Description>"[+0264] DronePatrolDistanceMin"</Description>
+              <LastState Value="0" RealAddress="000002C4"/>
+              <VariableType>Float</VariableType>
+              <Address>+B4</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>280</ID>
+              <Description>"[+0268] DronePatrolDistanceMax"</Description>
+              <LastState Value="0" RealAddress="000002C8"/>
+              <VariableType>Float</VariableType>
+              <Address>+B8</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>281</ID>
+              <Description>"[+026C] DronePatrolTargetDistance"</Description>
+              <LastState Value="0" RealAddress="000002CC"/>
+              <VariableType>Float</VariableType>
+              <Address>+BC</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>282</ID>
+              <Description>"[+0270] DronePatrolInspectDistanceMin"</Description>
+              <LastState Value="0.2820000052" RealAddress="000002D0"/>
+              <VariableType>Float</VariableType>
+              <Address>+C0</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>283</ID>
+              <Description>"[+0274] DronePatrolInspectDistanceMax"</Description>
+              <LastState Value="0.8130000234" RealAddress="000002D4"/>
+              <VariableType>Float</VariableType>
+              <Address>+C4</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>284</ID>
+              <Description>"[+0278] DronePatrolInspectTargetTime"</Description>
+              <LastState Value="1" RealAddress="000002D8"/>
+              <VariableType>Float</VariableType>
+              <Address>+C8</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>285</ID>
+              <Description>"[+027C] DronePatrolInspectSwitchTime"</Description>
+              <LastState Value="1" RealAddress="000002DC"/>
+              <VariableType>Float</VariableType>
+              <Address>+CC</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>286</ID>
+              <Description>"[+0280] DronePatrolInspectRadius"</Description>
+              <LastState Value="1" RealAddress="000002E0"/>
+              <VariableType>Float</VariableType>
+              <Address>+D0</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>287</ID>
+              <Description>"[+0284] DronePatrolRepelDistance"</Description>
+              <LastState Value="0.1299999952" RealAddress="000002E4"/>
+              <VariableType>Float</VariableType>
+              <Address>+D4</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>288</ID>
+              <Description>"[+0288] DronePatrolRepelStrength"</Description>
+              <LastState Value="0" RealAddress="000002E8"/>
+              <VariableType>Float</VariableType>
+              <Address>+D8</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>289</ID>
+              <Description>"[+028C] DronePatrolHonkRadius"</Description>
+              <LastState Value="1" RealAddress="000002EC"/>
+              <VariableType>Float</VariableType>
+              <Address>+DC</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>290</ID>
+              <Description>"[+0290] DronePatrolHonkTime"</Description>
+              <LastState Value="3" RealAddress="000002F0"/>
+              <VariableType>Float</VariableType>
+              <Address>+E0</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>291</ID>
+              <Description>"[+0294] DronePatrolHonkProbabilty"</Description>
+              <LastState Value="1073741824" RealAddress="000002F4"/>
+              <VariableType>4 Bytes</VariableType>
+              <Address>+E4</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>292</ID>
+              <Description>"[+0298] DronePatrolAlertTime"</Description>
+              <LastState Value="2000" RealAddress="000002F8"/>
+              <VariableType>Float</VariableType>
+              <Address>+E8</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>293</ID>
+              <Description>"[+029C] AttackFireRate"</Description>
+              <LastState Value="3000" RealAddress="000002FC"/>
+              <VariableType>Float</VariableType>
+              <Address>+EC</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>294</ID>
+              <Description>"[+02A0] AttackNumShotsMin"</Description>
+              <LastState Value="1143930880" RealAddress="00000300"/>
+              <VariableType>4 Bytes</VariableType>
+              <Address>+F0</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>295</ID>
+              <Description>"[+02A4] AttackNumShotsMax"</Description>
+              <LastState Value="1145569280" RealAddress="00000304"/>
+              <VariableType>4 Bytes</VariableType>
+              <Address>+F4</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>296</ID>
+              <Description>"[+02A8] AttackFireTimeMin"</Description>
+              <LastState Value="10" RealAddress="00000308"/>
+              <VariableType>Float</VariableType>
+              <Address>+F8</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>297</ID>
+              <Description>"[+02AC] AttackFireTimeMax"</Description>
+              <LastState Value="2000" RealAddress="0000030C"/>
+              <VariableType>Float</VariableType>
+              <Address>+FC</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>298</ID>
+              <Description>"[+02B0] AttackMoveLookDistanceRange"</Description>
+              <LastState Value="5" RealAddress="00000310"/>
+              <VariableType>Float</VariableType>
+              <Address>+100</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>299</ID>
+              <Description>"[+02B4] AttackMoveLookDistanceMin"</Description>
+              <LastState Value="10" RealAddress="00000314"/>
+              <VariableType>Float</VariableType>
+              <Address>+104</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>300</ID>
+              <Description>"[+02B8] AttackAngle"</Description>
+              <LastState Value="30" RealAddress="00000318"/>
+              <VariableType>Float</VariableType>
+              <Address>+108</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>301</ID>
+              <Description>"[+02BC] AttackRange"</Description>
+              <LastState Value="8" RealAddress="0000031C"/>
+              <VariableType>Float</VariableType>
+              <Address>+10C</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>302</ID>
+              <Description>"[+02C0] AttackMinSpeed"</Description>
+              <LastState Value="0" RealAddress="00000320"/>
+              <VariableType>Float</VariableType>
+              <Address>+110</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>303</ID>
+              <Description>"[+02C4] AttackActivateTime"</Description>
+              <LastState Value="10" RealAddress="00000324"/>
+              <VariableType>Float</VariableType>
+              <Address>+114</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>304</ID>
+              <Description>"[+02C8] AttackBobAmount"</Description>
+              <LastState Value="0.8000000119" RealAddress="00000328"/>
+              <VariableType>Float</VariableType>
+              <Address>+118</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>305</ID>
+              <Description>"[+02CC] AttackBobRotation"</Description>
+              <LastState Value="1.401298464E-41" RealAddress="0000032C"/>
+              <VariableType>Float</VariableType>
+              <Address>+11C</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>306</ID>
+              <Description>"[+02D0] AttackMoveDistanceMin"</Description>
+              <LastState Value="0.1000000015" RealAddress="00000330"/>
+              <VariableType>Float</VariableType>
+              <Address>+120</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>307</ID>
+              <Description>"[+02D4] AttackMoveDistanceMax"</Description>
+              <LastState Value="60" RealAddress="00000334"/>
+              <VariableType>Float</VariableType>
+              <Address>+124</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>308</ID>
+              <Description>"[+02D8] AttackMoveMinChoiceTime"</Description>
+              <LastState Value="1" RealAddress="00000338"/>
+              <VariableType>Float</VariableType>
+              <Address>+128</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>309</ID>
+              <Description>"[+02DC] AttackTargetDistanceMin"</Description>
+              <LastState Value="4" RealAddress="0000033C"/>
+              <VariableType>Float</VariableType>
+              <Address>+12C</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>310</ID>
+              <Description>"[+02E0] AttackTargetDistanceMax"</Description>
+              <LastState Value="3000" RealAddress="00000340"/>
+              <VariableType>Float</VariableType>
+              <Address>+130</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>311</ID>
+              <Description>"[+02E4] AttackMaxDistanceFromAlert"</Description>
+              <LastState Value="2" RealAddress="00000344"/>
+              <VariableType>Float</VariableType>
+              <Address>+134</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>312</ID>
+              <Description>"[+02E8] AttackAlertFailTime"</Description>
+              <LastState Value="-15" RealAddress="00000348"/>
+              <VariableType>Float</VariableType>
+              <Address>+138</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>313</ID>
+              <Description>"[+02EC] reserved"</Description>
+              <LastState Value="-45" RealAddress="0000034C"/>
+              <Color>C0C0C0</Color>
+              <VariableType>Float</VariableType>
+              <Address>+13C</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>346</ID>
+              <Description>"[+02F0] EyeColor.Alert"</Description>
+              <Options moManualExpandCollapse="1" moAllowManualCollapseAndExpand="1"/>
+              <LastState RealAddress="00000350"/>
+              <Color>FF0000</Color>
+              <VariableType>String</VariableType>
+              <Length>0</Length>
+              <Unicode>0</Unicode>
+              <CodePage>0</CodePage>
+              <ZeroTerminate>1</ZeroTerminate>
+              <Address>+0140</Address>
+              <CheatEntries>
+                <CheatEntry>
+                  <ID>314</ID>
+                  <Description>"[+02F0] R"</Description>
+                  <LastState Value="0.5" RealAddress="00000350"/>
+                  <VariableType>Float</VariableType>
+                  <Address>+0000</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>315</ID>
+                  <Description>"[+02F4] G"</Description>
+                  <LastState Value="0" RealAddress="00000354"/>
+                  <VariableType>Float</VariableType>
+                  <Address>+0004</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>316</ID>
+                  <Description>"[+02F8] B"</Description>
+                  <LastState Value="0" RealAddress="00000358"/>
+                  <VariableType>Float</VariableType>
+                  <Address>+0008</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>317</ID>
+                  <Description>"[+02FC] A"</Description>
+                  <LastState Value="2" RealAddress="0000035C"/>
+                  <VariableType>Float</VariableType>
+                  <Address>+000C</Address>
+                </CheatEntry>
+              </CheatEntries>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>347</ID>
+              <Description>"[+0300] EyeColor.Search"</Description>
+              <Options moManualExpandCollapse="1" moAllowManualCollapseAndExpand="1"/>
+              <LastState RealAddress="00000360"/>
+              <Color>FF0000</Color>
+              <VariableType>String</VariableType>
+              <Length>0</Length>
+              <Unicode>0</Unicode>
+              <CodePage>0</CodePage>
+              <ZeroTerminate>1</ZeroTerminate>
+              <Address>+0150</Address>
+              <CheatEntries>
+                <CheatEntry>
+                  <ID>318</ID>
+                  <Description>"[+0300] R"</Description>
+                  <LastState Value="0.1000000015" RealAddress="00000360"/>
+                  <VariableType>Float</VariableType>
+                  <Address>+0000</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>319</ID>
+                  <Description>"[+0304] G"</Description>
+                  <LastState Value="0.400000006" RealAddress="00000364"/>
+                  <VariableType>Float</VariableType>
+                  <Address>+0004</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>320</ID>
+                  <Description>"[+0308] B"</Description>
+                  <LastState Value="4.5" RealAddress="00000368"/>
+                  <VariableType>Float</VariableType>
+                  <Address>+0008</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>321</ID>
+                  <Description>"[+030C] A"</Description>
+                  <LastState Value="1.5" RealAddress="0000036C"/>
+                  <VariableType>Float</VariableType>
+                  <Address>+000C</Address>
+                </CheatEntry>
+              </CheatEntries>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>348</ID>
+              <Description>"[+0310] EyeColor.Patrol"</Description>
+              <Options moManualExpandCollapse="1" moAllowManualCollapseAndExpand="1"/>
+              <LastState RealAddress="00000370"/>
+              <Color>FF0000</Color>
+              <VariableType>String</VariableType>
+              <Length>0</Length>
+              <Unicode>0</Unicode>
+              <CodePage>0</CodePage>
+              <ZeroTerminate>1</ZeroTerminate>
+              <Address>+0160</Address>
+              <CheatEntries>
+                <CheatEntry>
+                  <ID>322</ID>
+                  <Description>"[+0310] R"</Description>
+                  <LastState Value="0.3000000119" RealAddress="00000370"/>
+                  <VariableType>Float</VariableType>
+                  <Address>+0000</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>323</ID>
+                  <Description>"[+0314] G"</Description>
+                  <LastState Value="0.1000000015" RealAddress="00000374"/>
+                  <VariableType>Float</VariableType>
+                  <Address>+0004</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>324</ID>
+                  <Description>"[+0318] B"</Description>
+                  <LastState Value="1.821688004E-44" RealAddress="00000378"/>
+                  <VariableType>Float</VariableType>
+                  <Address>+0008</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>325</ID>
+                  <Description>"[+031C] A"</Description>
+                  <LastState Value="2.242077543E-44" RealAddress="0000037C"/>
+                  <VariableType>Float</VariableType>
+                  <Address>+000C</Address>
+                </CheatEntry>
+              </CheatEntries>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>326</ID>
+              <Description>"[+0320] DroneSearchTime"</Description>
+              <LastState Value="0.1689999998" RealAddress="00000380"/>
+              <VariableType>Float</VariableType>
+              <Address>+170</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>327</ID>
+              <Description>"[+0324] DroneSearchRadius"</Description>
+              <LastState Value="0.6679999828" RealAddress="00000384"/>
+              <VariableType>Float</VariableType>
+              <Address>+174</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>328</ID>
+              <Description>"[+0328] DroneSearchPauseTime"</Description>
+              <LastState Value="1" RealAddress="00000388"/>
+              <VariableType>Float</VariableType>
+              <Address>+178</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>329</ID>
+              <Description>"[+032C] DroneSearchCriminalScanRadius"</Description>
+              <LastState Value="1" RealAddress="0000038C"/>
+              <VariableType>Float</VariableType>
+              <Address>+17C</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>330</ID>
+              <Description>"[+0330] DroneScanPlayerTime"</Description>
+              <LastState Value="0" RealAddress="00000390"/>
+              <VariableType>Float</VariableType>
+              <Address>+180</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>331</ID>
+              <Description>"[+0334] LeanAmount"</Description>
+              <LastState Value="0.3000000119" RealAddress="00000394"/>
+              <VariableType>Float</VariableType>
+              <Address>+184</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>332</ID>
+              <Description>"[+0338] LeanSpeedMin"</Description>
+              <LastState Value="-0.200000003" RealAddress="00000398"/>
+              <VariableType>Float</VariableType>
+              <Address>+188</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>333</ID>
+              <Description>"[+033C] LeanSpeedRange"</Description>
+              <LastState Value="0" RealAddress="0000039C"/>
+              <VariableType>Float</VariableType>
+              <Address>+18C</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>334</ID>
+              <Description>"[+0340] EyeOffset"</Description>
+              <LastState Value="-2" RealAddress="000003A0"/>
+              <VariableType>Float</VariableType>
+              <Address>+190</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>335</ID>
+              <Description>"[+0344] EyeFocusTime"</Description>
+              <LastState Value="-1" RealAddress="000003A4"/>
+              <VariableType>Float</VariableType>
+              <Address>+194</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>336</ID>
+              <Description>"[+0348] EyeNumRandomsMin"</Description>
+              <LastState Value="1065353216" RealAddress="000003A8"/>
+              <VariableType>4 Bytes</VariableType>
+              <Address>+198</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>337</ID>
+              <Description>"[+034C] EyeNumRandomsMax"</Description>
+              <LastState Value="0" RealAddress="000003AC"/>
+              <VariableType>4 Bytes</VariableType>
+              <Address>+19C</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>338</ID>
+              <Description>"[+0350] EyeTimeMin"</Description>
+              <LastState Value="2" RealAddress="000003B0"/>
+              <VariableType>Float</VariableType>
+              <Address>+1A0</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>339</ID>
+              <Description>"[+0354] EyeTimeMax"</Description>
+              <LastState Value="-1" RealAddress="000003B4"/>
+              <VariableType>Float</VariableType>
+              <Address>+1A4</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>340</ID>
+              <Description>"[+0358] EyeAngleMax"</Description>
+              <LastState Value="1" RealAddress="000003B8"/>
+              <VariableType>Float</VariableType>
+              <Address>+1A8</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>341</ID>
+              <Description>"[+035C] EngineDirSpeedMin"</Description>
+              <LastState Value="0" RealAddress="000003BC"/>
+              <VariableType>Float</VariableType>
+              <Address>+1AC</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>342</ID>
+              <Description>"[+0360] EngineDirAngleMax"</Description>
+              <LastState Value="5" RealAddress="000003C0"/>
+              <VariableType>Float</VariableType>
+              <Address>+1B0</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>343</ID>
+              <Description>"[+0364] reserved"</Description>
+              <LastState Value="CD CC 4C 3F CD CC CC 3D 0D 00 00 00" RealAddress="000003C4"/>
+              <ShowAsHex>1</ShowAsHex>
+              <Color>C0C0C0</Color>
+              <VariableType>Array of byte</VariableType>
+              <ByteLength>12</ByteLength>
+              <Address>+1B4</Address>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+  </CheatEntries>
+  <UserdefinedSymbols/>
+  <LuaScript>-- gcRobotGlobals.lua
+-- Author: Gaticus Hax
+-- License: Public Domain
+
+require("Scripts.HaxablesMonitor")
+
+local mbinFile      = "GCROBOTGLOBALS.MBIN"
+local dataSignature = "00 00 A0 42 00 00 40 3F 00 00 00 3F CD CC CC 3D 01 00 00 00 33 33 B3 3F 00 00 00 40 00 00 40 40"
+local dataOffset    = 0x0000
+
+defineMBIN(mbinFile, dataSignature, dataOffset)
+</LuaScript>
+</CheatTable>

@@ -1,0 +1,3559 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CheatTable CheatEngineTableVersion="26">
+  <CheatEntries>
+    <CheatEntry>
+      <ID>801</ID>
+      <Description>"gcSpaceShipGlobals"</Description>
+      <Options moManualExpandCollapse="1" moAllowManualCollapseAndExpand="1"/>
+      <LastState RealAddress="00000060"/>
+      <Color>FF0000</Color>
+      <VariableType>String</VariableType>
+      <Length>0</Length>
+      <Unicode>0</Unicode>
+      <CodePage>0</CodePage>
+      <ZeroTerminate>1</ZeroTerminate>
+      <Address>0x60</Address>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>3415</ID>
+          <Description>"[+0000] Unknown"</Description>
+          <VariableType>Byte</VariableType>
+          <Address>+0</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>3416</ID>
+          <Description>"[+0001] Unknown"</Description>
+          <VariableType>Byte</VariableType>
+          <Address>+1</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>3417</ID>
+          <Description>"[+0002] Unknown"</Description>
+          <VariableType>Byte</VariableType>
+          <Address>+2</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>3418</ID>
+          <Description>"[+0003] Unknown"</Description>
+          <VariableType>Byte</VariableType>
+          <Address>+3</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>3419</ID>
+          <Description>"[+0004] Unknown"</Description>
+          <VariableType>Byte</VariableType>
+          <Address>+4</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>3420</ID>
+          <Description>"[+0005] Unknown"</Description>
+          <VariableType>Byte</VariableType>
+          <Address>+5</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>3421</ID>
+          <Description>"[+0006] Unknown"</Description>
+          <VariableType>Byte</VariableType>
+          <Address>+6</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>3422</ID>
+          <Description>"[+0007] Unknown"</Description>
+          <VariableType>Byte</VariableType>
+          <Address>+7</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>804</ID>
+          <Description>"[+0008] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+8</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>805</ID>
+          <Description>"[+000C] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+C</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>806</ID>
+          <Description>"[+0010] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+10</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>807</ID>
+          <Description>"[+0014] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+14</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>808</ID>
+          <Description>"[+0018] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+18</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>809</ID>
+          <Description>"[+001C] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+1C</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>810</ID>
+          <Description>"[+0020] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+20</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>811</ID>
+          <Description>"[+0024] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+24</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>812</ID>
+          <Description>"[+0028] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+28</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>813</ID>
+          <Description>"[+002C] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+2C</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>814</ID>
+          <Description>"[+0030] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+30</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>815</ID>
+          <Description>"[+0034] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+34</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>816</ID>
+          <Description>"[+0038] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+38</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>3424</ID>
+          <Description>"[+003C] Unknown"</Description>
+          <VariableType>Byte</VariableType>
+          <Address>+3C</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>3425</ID>
+          <Description>"[+003D] Unknown"</Description>
+          <VariableType>Byte</VariableType>
+          <Address>+3D</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>3426</ID>
+          <Description>"[+003E] Unknown"</Description>
+          <VariableType>Byte</VariableType>
+          <Address>+3E</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>3427</ID>
+          <Description>"[+003F] Unknown"</Description>
+          <VariableType>Byte</VariableType>
+          <Address>+3F</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>818</ID>
+          <Description>"[+0040] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+40</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>819</ID>
+          <Description>"[+0044] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+44</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>820</ID>
+          <Description>"[+0048] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+48</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>821</ID>
+          <Description>"[+004C] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+4C</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>822</ID>
+          <Description>"[+0050] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+50</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>823</ID>
+          <Description>"[+0054] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+54</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>824</ID>
+          <Description>"[+0058] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+58</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>825</ID>
+          <Description>"[+005C] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+5C</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>826</ID>
+          <Description>"[+0060] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+60</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>827</ID>
+          <Description>"[+0064] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+64</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>828</ID>
+          <Description>"[+0068] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+68</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>829</ID>
+          <Description>"[+006C] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+6C</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>830</ID>
+          <Description>"[+0070] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+70</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>831</ID>
+          <Description>"[+0074] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+74</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>832</ID>
+          <Description>"[+0078] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+78</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>833</ID>
+          <Description>"[+007C] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+7C</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>834</ID>
+          <Description>"[+0080] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+80</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>835</ID>
+          <Description>"[+0084] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+84</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>836</ID>
+          <Description>"[+0088] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+88</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>837</ID>
+          <Description>"[+008C] Unknown"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>+8C</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>838</ID>
+          <Description>"[+0090] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+90</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>839</ID>
+          <Description>"[+0094] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+94</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>840</ID>
+          <Description>"[+0098] Unknown"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>+98</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>841</ID>
+          <Description>"[+009C] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+9C</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>842</ID>
+          <Description>"[+00A0] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+A0</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>843</ID>
+          <Description>"[+00A4] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+A4</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>844</ID>
+          <Description>"[+00A8] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+A8</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>845</ID>
+          <Description>"[+00AC] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+AC</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>846</ID>
+          <Description>"[+00B0] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+B0</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>847</ID>
+          <Description>"[+00B4] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+B4</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>848</ID>
+          <Description>"[+00B8] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+B8</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>849</ID>
+          <Description>"[+00BC] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+BC</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>850</ID>
+          <Description>"[+00C0] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+C0</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>851</ID>
+          <Description>"[+00C4] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+C4</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>852</ID>
+          <Description>"[+00C8] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+C8</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>853</ID>
+          <Description>"[+00CC] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+CC</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>854</ID>
+          <Description>"[+00D0] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+D0</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>855</ID>
+          <Description>"[+00D4] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+D4</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>856</ID>
+          <Description>"[+00D8] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+D8</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>857</ID>
+          <Description>"[+00DC] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+DC</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>858</ID>
+          <Description>"[+00E0] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+E0</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>859</ID>
+          <Description>"[+00E4] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+E4</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>860</ID>
+          <Description>"[+00E8] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+E8</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>861</ID>
+          <Description>"[+00EC] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+EC</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>862</ID>
+          <Description>"[+00F0] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+F0</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>863</ID>
+          <Description>"[+00F4] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+F4</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>864</ID>
+          <Description>"[+00F8] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+F8</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>865</ID>
+          <Description>"[+00FC] Unknown"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>+FC</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>866</ID>
+          <Description>"[+0100] Unknown"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>+100</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>867</ID>
+          <Description>"[+0104] Unknown"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>+104</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>3428</ID>
+          <Description>"[+0108] PlayerSpaceshipControl"</Description>
+          <Options moManualExpandCollapse="1" moAllowManualCollapseAndExpand="1"/>
+          <LastState RealAddress="00000168"/>
+          <Color>FF0000</Color>
+          <VariableType>String</VariableType>
+          <Length>0</Length>
+          <Unicode>0</Unicode>
+          <CodePage>0</CodePage>
+          <ZeroTerminate>1</ZeroTerminate>
+          <Address>+0108</Address>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>3363</ID>
+              <Description>"[+108] SpaceEngine"</Description>
+              <Options moManualExpandCollapse="1" moAllowManualCollapseAndExpand="1"/>
+              <LastState RealAddress="00000168"/>
+              <Color>FF0000</Color>
+              <VariableType>String</VariableType>
+              <Length>0</Length>
+              <Unicode>0</Unicode>
+              <CodePage>0</CodePage>
+              <ZeroTerminate>1</ZeroTerminate>
+              <Address>+0000</Address>
+              <CheatEntries>
+                <CheatEntry>
+                  <ID>3364</ID>
+                  <Description>"[+0108] ThrustForce"</Description>
+                  <VariableType>Float</VariableType>
+                  <Address>+0</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>3365</ID>
+                  <Description>"[+010C] MaxSpeed"</Description>
+                  <VariableType>Float</VariableType>
+                  <Address>+4</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>3366</ID>
+                  <Description>"[+0110] MinSpeed"</Description>
+                  <VariableType>Float</VariableType>
+                  <Address>+8</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>3367</ID>
+                  <Description>"[+0114] Falloff"</Description>
+                  <VariableType>Float</VariableType>
+                  <Address>+C</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>3368</ID>
+                  <Description>"[+0118] BoostThrustForce"</Description>
+                  <VariableType>Float</VariableType>
+                  <Address>+10</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>3369</ID>
+                  <Description>"[+011C] BoostMaxSpeed"</Description>
+                  <VariableType>Float</VariableType>
+                  <Address>+14</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>3370</ID>
+                  <Description>"[+0120] BoostFalloff"</Description>
+                  <VariableType>Float</VariableType>
+                  <Address>+18</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>3371</ID>
+                  <Description>"[+0124] BoostTurnDamp"</Description>
+                  <VariableType>Float</VariableType>
+                  <Address>+1C</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>3372</ID>
+                  <Description>"[+0128] DirectionBrakeMin"</Description>
+                  <VariableType>Float</VariableType>
+                  <Address>+20</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>3373</ID>
+                  <Description>"[+012C] DirectionBrake"</Description>
+                  <VariableType>Float</VariableType>
+                  <Address>+24</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>3374</ID>
+                  <Description>"[+0130] ReverseBrake"</Description>
+                  <VariableType>Float</VariableType>
+                  <Address>+28</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>3375</ID>
+                  <Description>"[+0134] OverspeedBrake"</Description>
+                  <VariableType>Float</VariableType>
+                  <Address>+2C</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>3376</ID>
+                  <Description>"[+0138] LowSpeedTurnDamp"</Description>
+                  <VariableType>Float</VariableType>
+                  <Address>+30</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>3377</ID>
+                  <Description>"[+013C] TurnBrakeMin"</Description>
+                  <VariableType>Float</VariableType>
+                  <Address>+34</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>3378</ID>
+                  <Description>"[+0140] TurnBrakeMax"</Description>
+                  <VariableType>Float</VariableType>
+                  <Address>+38</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>3379</ID>
+                  <Description>"[+0144] TurnStrength"</Description>
+                  <VariableType>Float</VariableType>
+                  <Address>+3C</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>3380</ID>
+                  <Description>"[+0148] RollAmount"</Description>
+                  <VariableType>Float</VariableType>
+                  <Address>+40</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>3381</ID>
+                  <Description>"[+014C] RollForce"</Description>
+                  <VariableType>Float</VariableType>
+                  <Address>+44</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>3382</ID>
+                  <Description>"[+0150] RollAutoTime"</Description>
+                  <VariableType>Float</VariableType>
+                  <Address>+48</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>3383</ID>
+                  <Description>"[+0154] BalanceTimeMin"</Description>
+                  <VariableType>Float</VariableType>
+                  <Address>+4C</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>3384</ID>
+                  <Description>"[+0158] BalanceTimeMax"</Description>
+                  <VariableType>Float</VariableType>
+                  <Address>+50</Address>
+                </CheatEntry>
+              </CheatEntries>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>3385</ID>
+              <Description>"[+015C] PlanetEngine"</Description>
+              <Options moManualExpandCollapse="1" moAllowManualCollapseAndExpand="1"/>
+              <LastState RealAddress="000001BC"/>
+              <Color>FF0000</Color>
+              <VariableType>String</VariableType>
+              <Length>0</Length>
+              <Unicode>0</Unicode>
+              <CodePage>0</CodePage>
+              <ZeroTerminate>1</ZeroTerminate>
+              <Address>+0054</Address>
+              <CheatEntries>
+                <CheatEntry>
+                  <ID>3386</ID>
+                  <Description>"[+015C] ThrustForce"</Description>
+                  <VariableType>Float</VariableType>
+                  <Address>+0</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>3387</ID>
+                  <Description>"[+0160] MaxSpeed"</Description>
+                  <VariableType>Float</VariableType>
+                  <Address>+4</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>3388</ID>
+                  <Description>"[+0164] MinSpeed"</Description>
+                  <VariableType>Float</VariableType>
+                  <Address>+8</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>3389</ID>
+                  <Description>"[+0168] Falloff"</Description>
+                  <VariableType>Float</VariableType>
+                  <Address>+C</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>3390</ID>
+                  <Description>"[+016C] BoostThrustForce"</Description>
+                  <VariableType>Float</VariableType>
+                  <Address>+10</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>3391</ID>
+                  <Description>"[+0170] BoostMaxSpeed"</Description>
+                  <VariableType>Float</VariableType>
+                  <Address>+14</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>3392</ID>
+                  <Description>"[+0174] BoostFalloff"</Description>
+                  <VariableType>Float</VariableType>
+                  <Address>+18</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>3393</ID>
+                  <Description>"[+0178] BoostTurnDamp"</Description>
+                  <VariableType>Float</VariableType>
+                  <Address>+1C</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>3394</ID>
+                  <Description>"[+017C] DirectionBrakeMin"</Description>
+                  <VariableType>Float</VariableType>
+                  <Address>+20</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>3395</ID>
+                  <Description>"[+0180] DirectionBrake"</Description>
+                  <VariableType>Float</VariableType>
+                  <Address>+24</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>3396</ID>
+                  <Description>"[+0184] ReverseBrake"</Description>
+                  <VariableType>Float</VariableType>
+                  <Address>+28</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>3397</ID>
+                  <Description>"[+0188] OverspeedBrake"</Description>
+                  <VariableType>Float</VariableType>
+                  <Address>+2C</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>3398</ID>
+                  <Description>"[+018C] LowSpeedTurnDamp"</Description>
+                  <VariableType>Float</VariableType>
+                  <Address>+30</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>3399</ID>
+                  <Description>"[+0190] TurnBrakeMin"</Description>
+                  <VariableType>Float</VariableType>
+                  <Address>+34</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>3400</ID>
+                  <Description>"[+0194] TurnBrakeMax"</Description>
+                  <VariableType>Float</VariableType>
+                  <Address>+38</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>3401</ID>
+                  <Description>"[+0198] TurnStrength"</Description>
+                  <VariableType>Float</VariableType>
+                  <Address>+3C</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>3402</ID>
+                  <Description>"[+019C] RollAmount"</Description>
+                  <VariableType>Float</VariableType>
+                  <Address>+40</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>3403</ID>
+                  <Description>"[+01A0] RollForce"</Description>
+                  <VariableType>Float</VariableType>
+                  <Address>+44</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>3404</ID>
+                  <Description>"[+01A4] RollAutoTime"</Description>
+                  <VariableType>Float</VariableType>
+                  <Address>+48</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>3405</ID>
+                  <Description>"[+01A8] BalanceTimeMin"</Description>
+                  <VariableType>Float</VariableType>
+                  <Address>+4C</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>3406</ID>
+                  <Description>"[+01AC] BalanceTimeMax"</Description>
+                  <VariableType>Float</VariableType>
+                  <Address>+50</Address>
+                </CheatEntry>
+              </CheatEntries>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>910</ID>
+              <Description>"[+01B0] ExitHeightFactorMin"</Description>
+              <VariableType>Float</VariableType>
+              <Address>+00A8</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>911</ID>
+              <Description>"[+01B4] ExitHeightFactorMax"</Description>
+              <VariableType>Float</VariableType>
+              <Address>+00AC</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>912</ID>
+              <Description>"[+01B8] ExitHeightFactorPlungeMin"</Description>
+              <VariableType>Float</VariableType>
+              <Address>+00B0</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>913</ID>
+              <Description>"[+01BC] ExitHeightFactorPlungeMax"</Description>
+              <VariableType>Float</VariableType>
+              <Address>+00B4</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>914</ID>
+              <Description>"[+01C0] ExitAngleMin"</Description>
+              <VariableType>Float</VariableType>
+              <Address>+00B8</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>915</ID>
+              <Description>"[+01C4] ExitAngleMax"</Description>
+              <VariableType>Float</VariableType>
+              <Address>+00BC</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>916</ID>
+              <Description>"[+01C8] ExitLeaveAngle"</Description>
+              <VariableType>Float</VariableType>
+              <Address>+00C0</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>917</ID>
+              <Description>"[+01CC] ExitCurve"</Description>
+              <DropDownList ReadOnly="1" DescriptionOnly="1" DisplayValueAsItem="1">0:Linear
+1:SmoothInOut
+2:FastInSlowOut
+3:BellSquared
+4:Squared
+5:Cubed
+6:Logarithmic
+7:SlowIn
+8:SlowOut
+9:ReallySlowOut
+10:SmootherStep
+11:SmoothFastInSlowOut
+12:SmoothSlowInFastOut
+13:EaseInSine
+14:EaseOutSine
+15:EaseInOutSine
+16:EaseInQuad
+17:EaseOutQuad
+18:EaseInOutQuad
+19:EaseInQuart
+20:EaseOutQuart
+21:EaseInOutQuart
+22:EaseInQuint
+23:EaseOutQuint
+24:EaseInOutQuint
+25:EaseInExpo
+26:EaseOutExpo
+27:EaseInOutExpo
+28:EaseInCirc
+29:EaseOutCirc
+30:EaseInOutCirc
+31:EaseInBack
+32:EaseOutBack
+33:EaseInOutBack
+34:EaseInElastic
+35:EaseOutElastic
+36:EaseInOutElastic
+37:EaseInBounce
+38:EaseOutBounce
+39:EaseInOutBounce
+</DropDownList>
+              <VariableType>4 Bytes</VariableType>
+              <Address>+00C4</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>918</ID>
+              <Description>"[+01D0] ExitDownCurve"</Description>
+              <DropDownList ReadOnly="1" DescriptionOnly="1" DisplayValueAsItem="1">0:Linear
+1:SmoothInOut
+2:FastInSlowOut
+3:BellSquared
+4:Squared
+5:Cubed
+6:Logarithmic
+7:SlowIn
+8:SlowOut
+9:ReallySlowOut
+10:SmootherStep
+11:SmoothFastInSlowOut
+12:SmoothSlowInFastOut
+13:EaseInSine
+14:EaseOutSine
+15:EaseInOutSine
+16:EaseInQuad
+17:EaseOutQuad
+18:EaseInOutQuad
+19:EaseInQuart
+20:EaseOutQuart
+21:EaseInOutQuart
+22:EaseInQuint
+23:EaseOutQuint
+24:EaseInOutQuint
+25:EaseInExpo
+26:EaseOutExpo
+27:EaseInOutExpo
+28:EaseInCirc
+29:EaseOutCirc
+30:EaseInOutCirc
+31:EaseInBack
+32:EaseOutBack
+33:EaseInOutBack
+34:EaseInElastic
+35:EaseOutElastic
+36:EaseInOutElastic
+37:EaseInBounce
+38:EaseOutBounce
+39:EaseInOutBounce
+</DropDownList>
+              <VariableType>4 Bytes</VariableType>
+              <Address>+00C8</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>919</ID>
+              <Description>"[+01D4] AngularFactor"</Description>
+              <VariableType>Float</VariableType>
+              <Address>+00CC</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>920</ID>
+              <Description>"[+01D8] MaxTorque"</Description>
+              <VariableType>Float</VariableType>
+              <Address>+00D0</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>921</ID>
+              <Description>"[+01DC] ShipPlanetBrakeMinSpeed"</Description>
+              <VariableType>Float</VariableType>
+              <Address>+00D4</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>922</ID>
+              <Description>"[+01E0] ShipPlanetBrakeMaxSpeed"</Description>
+              <VariableType>Float</VariableType>
+              <Address>+00D8</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>923</ID>
+              <Description>"[+01E4] ShipPlanetBrakeMinHeight"</Description>
+              <VariableType>Float</VariableType>
+              <Address>+00DC</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>924</ID>
+              <Description>"[+01E8] ShipPlanetBrakeMaxHeight"</Description>
+              <VariableType>Float</VariableType>
+              <Address>+00E0</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>925</ID>
+              <Description>"[+01EC] ShipPlanetBrakeForce"</Description>
+              <VariableType>Float</VariableType>
+              <Address>+00E4</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>926</ID>
+              <Description>"[+01F0] ShipPlanetBrakeAlignMinTime"</Description>
+              <VariableType>Float</VariableType>
+              <Address>+00E8</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>927</ID>
+              <Description>"[+01F4] ShipPlanetBrakeAlignMaxTime"</Description>
+              <VariableType>Float</VariableType>
+              <Address>+00EC</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>928</ID>
+              <Description>"[+01F8] ShipMinHeightForce"</Description>
+              <VariableType>Float</VariableType>
+              <Address>+00F0</Address>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>929</ID>
+          <Description>"[+01FC] reserved"</Description>
+          <Color>C0C0C0</Color>
+          <VariableType>Float</VariableType>
+          <Address>+1FC</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>3407</ID>
+          <Description>"[+200] ShipLaserMuzzleFlashColour"</Description>
+          <Options moManualExpandCollapse="1" moAllowManualCollapseAndExpand="1"/>
+          <LastState RealAddress="00000260"/>
+          <Color>FF0000</Color>
+          <VariableType>String</VariableType>
+          <Length>0</Length>
+          <Unicode>0</Unicode>
+          <CodePage>0</CodePage>
+          <ZeroTerminate>1</ZeroTerminate>
+          <Address>+200</Address>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>930</ID>
+              <Description>"[+0200] R"</Description>
+              <VariableType>Float</VariableType>
+              <Address>+0000</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>931</ID>
+              <Description>"[+0204] G"</Description>
+              <VariableType>Float</VariableType>
+              <Address>+0004</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>932</ID>
+              <Description>"[+0208] B"</Description>
+              <VariableType>Float</VariableType>
+              <Address>+0008</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>933</ID>
+              <Description>"[+020C] A"</Description>
+              <VariableType>Float</VariableType>
+              <Address>+000C</Address>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>934</ID>
+          <Description>"[+0210] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+210</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>935</ID>
+          <Description>"[+0214] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+214</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>936</ID>
+          <Description>"[+0218] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+218</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>937</ID>
+          <Description>"[+021C] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+21C</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>938</ID>
+          <Description>"[+0220] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+220</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>939</ID>
+          <Description>"[+0224] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+224</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>940</ID>
+          <Description>"[+0228] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+228</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>941</ID>
+          <Description>"[+022C] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+22C</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>942</ID>
+          <Description>"[+0230] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+230</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>943</ID>
+          <Description>"[+0234] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+234</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>944</ID>
+          <Description>"[+0238] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+238</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>945</ID>
+          <Description>"[+023C] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+23C</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>946</ID>
+          <Description>"[+0240] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+240</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>947</ID>
+          <Description>"[+0244] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+244</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>948</ID>
+          <Description>"[+0248] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+248</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>949</ID>
+          <Description>"[+024C] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+24C</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>950</ID>
+          <Description>"[+0250] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+250</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>951</ID>
+          <Description>"[+0254] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+254</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>952</ID>
+          <Description>"[+0258] Unknown"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>+258</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>953</ID>
+          <Description>"[+025C] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+25C</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>954</ID>
+          <Description>"[+0260] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+260</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>955</ID>
+          <Description>"[+0264] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+264</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>956</ID>
+          <Description>"[+0268] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+268</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>957</ID>
+          <Description>"[+026C] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+26C</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>958</ID>
+          <Description>"[+0270] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+270</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>959</ID>
+          <Description>"[+0274] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+274</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>960</ID>
+          <Description>"[+0278] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+278</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>961</ID>
+          <Description>"[+027C] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+27C</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>962</ID>
+          <Description>"[+0280] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+280</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>963</ID>
+          <Description>"[+0284] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+284</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>964</ID>
+          <Description>"[+0288] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+288</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>965</ID>
+          <Description>"[+028C] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+28C</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>966</ID>
+          <Description>"[+0290] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+290</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>967</ID>
+          <Description>"[+0294] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+294</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>968</ID>
+          <Description>"[+0298] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+298</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>969</ID>
+          <Description>"[+029C] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+29C</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>970</ID>
+          <Description>"[+02A0] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+2A0</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>971</ID>
+          <Description>"[+02A4] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+2A4</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>972</ID>
+          <Description>"[+02A8] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+2A8</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>973</ID>
+          <Description>"[+02AC] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+2AC</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>974</ID>
+          <Description>"[+02B0] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+2B0</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>975</ID>
+          <Description>"[+02B4] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+2B4</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>976</ID>
+          <Description>"[+02B8] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+2B8</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>977</ID>
+          <Description>"[+02BC] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+2BC</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>978</ID>
+          <Description>"[+02C0] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+2C0</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>979</ID>
+          <Description>"[+02C4] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+2C4</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>980</ID>
+          <Description>"[+02C8] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+2C8</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>981</ID>
+          <Description>"[+02CC] Unknown"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>+2CC</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>982</ID>
+          <Description>"[+02D0] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+2D0</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>983</ID>
+          <Description>"[+02D4] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+2D4</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>984</ID>
+          <Description>"[+02D8] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+2D8</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>985</ID>
+          <Description>"[+02DC] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+2DC</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>986</ID>
+          <Description>"[+02E0] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+2E0</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>987</ID>
+          <Description>"[+02E4] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+2E4</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>988</ID>
+          <Description>"[+02E8] ShipTiltOnTurning"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+2E8</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>989</ID>
+          <Description>"[+02EC] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+2EC</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>990</ID>
+          <Description>"[+02F0] ShipTiltOnTurningDampening"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+2F0</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>991</ID>
+          <Description>"[+02F4] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+2F4</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>992</ID>
+          <Description>"[+02F8] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+2F8</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>993</ID>
+          <Description>"[+02FC] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+2FC</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>994</ID>
+          <Description>"[+0300] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+300</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>995</ID>
+          <Description>"[+0304] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+304</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>996</ID>
+          <Description>"[+0308] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+308</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>997</ID>
+          <Description>"[+030C] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+30C</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>998</ID>
+          <Description>"[+0310] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+310</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>999</ID>
+          <Description>"[+0314] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+314</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1000</ID>
+          <Description>"[+0318] Unknown"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>+318</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1001</ID>
+          <Description>"[+031C] Unknown"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>+31C</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1002</ID>
+          <Description>"[+0320] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+320</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1003</ID>
+          <Description>"[+0324] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+324</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1004</ID>
+          <Description>"[+0328] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+328</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1005</ID>
+          <Description>"[+032C] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+32C</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1006</ID>
+          <Description>"[+0330] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+330</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1007</ID>
+          <Description>"[+0334] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+334</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1008</ID>
+          <Description>"[+0338] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+338</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1009</ID>
+          <Description>"[+033C] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+33C</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1010</ID>
+          <Description>"[+0340] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+340</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1011</ID>
+          <Description>"[+0344] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+344</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1012</ID>
+          <Description>"[+0348] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+348</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1013</ID>
+          <Description>"[+034C] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+34C</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1014</ID>
+          <Description>"[+0350] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+350</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1015</ID>
+          <Description>"[+0354] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+354</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1016</ID>
+          <Description>"[+0358] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+358</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1017</ID>
+          <Description>"[+035C] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+35C</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1018</ID>
+          <Description>"[+0360] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+360</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1019</ID>
+          <Description>"[+0364] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+364</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1020</ID>
+          <Description>"[+0368] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+368</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1021</ID>
+          <Description>"[+036C] Unknown"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>+36C</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1022</ID>
+          <Description>"[+0370] Unknown"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>+370</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1023</ID>
+          <Description>"[+0374] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+374</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1024</ID>
+          <Description>"[+0378] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+378</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1025</ID>
+          <Description>"[+037C] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+37C</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1026</ID>
+          <Description>"[+0380] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+380</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1027</ID>
+          <Description>"[+0384] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+384</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1028</ID>
+          <Description>"[+0388] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+388</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1029</ID>
+          <Description>"[+038C] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+38C</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1030</ID>
+          <Description>"[+0390] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+390</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1031</ID>
+          <Description>"[+0394] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+394</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1032</ID>
+          <Description>"[+0398] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+398</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1033</ID>
+          <Description>"[+039C] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+39C</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>3430</ID>
+          <Description>"[+03A0] Unknown"</Description>
+          <VariableType>Byte</VariableType>
+          <Address>+3A0</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>3431</ID>
+          <Description>"[+03A1] reserved"</Description>
+          <Color>C0C0C0</Color>
+          <VariableType>Byte</VariableType>
+          <Address>+3A1</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>3432</ID>
+          <Description>"[+03A2] reserved"</Description>
+          <Color>C0C0C0</Color>
+          <VariableType>Byte</VariableType>
+          <Address>+3A2</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>3433</ID>
+          <Description>"[+03A3] reserved"</Description>
+          <Color>C0C0C0</Color>
+          <VariableType>Byte</VariableType>
+          <Address>+3A3</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1035</ID>
+          <Description>"[+03A4] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+3A4</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1036</ID>
+          <Description>"[+03A8] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+3A8</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1037</ID>
+          <Description>"[+03AC] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+3AC</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1038</ID>
+          <Description>"[+03B0] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+3B0</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1039</ID>
+          <Description>"[+03B4] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+3B4</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1040</ID>
+          <Description>"[+03B8] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+3B8</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1041</ID>
+          <Description>"[+03BC] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+3BC</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1042</ID>
+          <Description>"[+03C0] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+3C0</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1043</ID>
+          <Description>"[+03C4] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+3C4</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1044</ID>
+          <Description>"[+03C8] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+3C8</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1045</ID>
+          <Description>"[+03CC] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+3CC</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1046</ID>
+          <Description>"[+03D0] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+3D0</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1047</ID>
+          <Description>"[+03D4] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+3D4</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1048</ID>
+          <Description>"[+03D8] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+3D8</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1049</ID>
+          <Description>"[+03DC] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+3DC</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1050</ID>
+          <Description>"[+03E0] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+3E0</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1051</ID>
+          <Description>"[+03E4] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+3E4</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1052</ID>
+          <Description>"[+03E8] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+3E8</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1053</ID>
+          <Description>"[+03EC] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+3EC</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1054</ID>
+          <Description>"[+03F0] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+3F0</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1055</ID>
+          <Description>"[+03F4] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+3F4</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1056</ID>
+          <Description>"[+03F8] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+3F8</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1057</ID>
+          <Description>"[+03FC] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+3FC</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1058</ID>
+          <Description>"[+0400] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+400</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1059</ID>
+          <Description>"[+0404] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+404</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1060</ID>
+          <Description>"[+0408] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+408</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1061</ID>
+          <Description>"[+040C] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+40C</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1062</ID>
+          <Description>"[+0410] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+410</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1063</ID>
+          <Description>"[+0414] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+414</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1064</ID>
+          <Description>"[+0418] Unknown"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>+418</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1065</ID>
+          <Description>"[+041C] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+41C</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1066</ID>
+          <Description>"[+0420] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+420</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1067</ID>
+          <Description>"[+0424] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+424</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1068</ID>
+          <Description>"[+0428] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+428</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1069</ID>
+          <Description>"[+042C] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+42C</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1070</ID>
+          <Description>"[+0430] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+430</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1071</ID>
+          <Description>"[+0434] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+434</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1072</ID>
+          <Description>"[+0438] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+438</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1073</ID>
+          <Description>"[+043C] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+43C</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1074</ID>
+          <Description>"[+0440] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+440</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1075</ID>
+          <Description>"[+0444] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+444</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1076</ID>
+          <Description>"[+0448] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+448</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1077</ID>
+          <Description>"[+044C] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+44C</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1078</ID>
+          <Description>"[+0450] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+450</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1079</ID>
+          <Description>"[+0454] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+454</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1080</ID>
+          <Description>"[+0458] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+458</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1081</ID>
+          <Description>"[+045C] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+45C</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1082</ID>
+          <Description>"[+0460] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+460</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1083</ID>
+          <Description>"[+0464] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+464</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1084</ID>
+          <Description>"[+0468] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+468</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1085</ID>
+          <Description>"[+046C] Unknown"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>+46C</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>3408</ID>
+          <Description>"[+0470] SpaceShipAim"</Description>
+          <Options moManualExpandCollapse="1" moAllowManualCollapseAndExpand="1"/>
+          <LastState RealAddress="000004D0"/>
+          <Color>FF0000</Color>
+          <VariableType>String</VariableType>
+          <Length>0</Length>
+          <Unicode>0</Unicode>
+          <CodePage>0</CodePage>
+          <ZeroTerminate>1</ZeroTerminate>
+          <Address>+0470</Address>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>1086</ID>
+              <Description>"[+0470] AimAngleMin"</Description>
+              <VariableType>Float</VariableType>
+              <Address>+0000</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1087</ID>
+              <Description>"[+0474] AimAngleRange"</Description>
+              <VariableType>Float</VariableType>
+              <Address>+0004</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1088</ID>
+              <Description>"[+0478] AimDistanceAngleMin"</Description>
+              <VariableType>Float</VariableType>
+              <Address>+0008</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1089</ID>
+              <Description>"[+047C] AimDistanceAngleRange"</Description>
+              <VariableType>Float</VariableType>
+              <Address>+000C</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1090</ID>
+              <Description>"[+0480] AimDistanceMin"</Description>
+              <VariableType>Float</VariableType>
+              <Address>+0010</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1091</ID>
+              <Description>"[+0484] AimDistanceRange"</Description>
+              <VariableType>Float</VariableType>
+              <Address>+0014</Address>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>3409</ID>
+          <Description>"[+0488] SpaceShipAim"</Description>
+          <Options moManualExpandCollapse="1" moAllowManualCollapseAndExpand="1"/>
+          <LastState RealAddress="000004E8"/>
+          <Color>FF0000</Color>
+          <VariableType>String</VariableType>
+          <Length>0</Length>
+          <Unicode>0</Unicode>
+          <CodePage>0</CodePage>
+          <ZeroTerminate>1</ZeroTerminate>
+          <Address>+0488</Address>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>1092</ID>
+              <Description>"[+0488] AimAngleMin"</Description>
+              <VariableType>Float</VariableType>
+              <Address>+0000</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1093</ID>
+              <Description>"[+048C] AimAngleRange"</Description>
+              <VariableType>Float</VariableType>
+              <Address>+0004</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1094</ID>
+              <Description>"[+0490] AimDistanceAngleMin"</Description>
+              <VariableType>Float</VariableType>
+              <Address>+0008</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1095</ID>
+              <Description>"[+0494] AimDistanceAngleRange"</Description>
+              <VariableType>Float</VariableType>
+              <Address>+000C</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1096</ID>
+              <Description>"[+0498] AimDistanceMin"</Description>
+              <VariableType>Float</VariableType>
+              <Address>+0010</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1097</ID>
+              <Description>"[+049C] AimDistanceRange"</Description>
+              <VariableType>Float</VariableType>
+              <Address>+0014</Address>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>3410</ID>
+          <Description>"[+04A0] SpaceShipAim"</Description>
+          <Options moManualExpandCollapse="1" moAllowManualCollapseAndExpand="1"/>
+          <LastState RealAddress="00000500"/>
+          <Color>FF0000</Color>
+          <VariableType>String</VariableType>
+          <Length>0</Length>
+          <Unicode>0</Unicode>
+          <CodePage>0</CodePage>
+          <ZeroTerminate>1</ZeroTerminate>
+          <Address>+04A0</Address>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>1098</ID>
+              <Description>"[+04A0] AimAngleMin"</Description>
+              <VariableType>Float</VariableType>
+              <Address>+0000</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1099</ID>
+              <Description>"[+04A4] AimAngleRange"</Description>
+              <VariableType>Float</VariableType>
+              <Address>+0004</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1100</ID>
+              <Description>"[+04A8] AimDistanceAngleMin"</Description>
+              <VariableType>Float</VariableType>
+              <Address>+0008</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1101</ID>
+              <Description>"[+04AC] AimDistanceAngleRange"</Description>
+              <VariableType>Float</VariableType>
+              <Address>+000C</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1102</ID>
+              <Description>"[+04B0] AimDistanceMin"</Description>
+              <VariableType>Float</VariableType>
+              <Address>+0010</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1103</ID>
+              <Description>"[+04B4] AimDistanceRange"</Description>
+              <VariableType>Float</VariableType>
+              <Address>+0014</Address>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1104</ID>
+          <Description>"[+04B8] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+4B8</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>3411</ID>
+          <Description>"[+04BC] SpaceShipAim"</Description>
+          <Options moManualExpandCollapse="1" moAllowManualCollapseAndExpand="1"/>
+          <LastState RealAddress="0000051C"/>
+          <Color>FF0000</Color>
+          <VariableType>String</VariableType>
+          <Length>0</Length>
+          <Unicode>0</Unicode>
+          <CodePage>0</CodePage>
+          <ZeroTerminate>1</ZeroTerminate>
+          <Address>+04BC</Address>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>1105</ID>
+              <Description>"[+04BC] AimAngleMin"</Description>
+              <VariableType>Float</VariableType>
+              <Address>+0000</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1106</ID>
+              <Description>"[+04C0] AimAngleRange"</Description>
+              <VariableType>Float</VariableType>
+              <Address>+0004</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1107</ID>
+              <Description>"[+04C4] AimDistanceAngleMin"</Description>
+              <VariableType>Float</VariableType>
+              <Address>+0008</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1108</ID>
+              <Description>"[+04C8] AimDistanceAngleRange"</Description>
+              <VariableType>Float</VariableType>
+              <Address>+000C</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1109</ID>
+              <Description>"[+04CC] AimDistanceMin"</Description>
+              <VariableType>Float</VariableType>
+              <Address>+0010</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1110</ID>
+              <Description>"[+04D0] AimDistanceRange"</Description>
+              <VariableType>Float</VariableType>
+              <Address>+0014</Address>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>3412</ID>
+          <Description>"[+04D4] SpaceShipAim"</Description>
+          <Options moManualExpandCollapse="1" moAllowManualCollapseAndExpand="1"/>
+          <LastState RealAddress="00000534"/>
+          <Color>FF0000</Color>
+          <VariableType>String</VariableType>
+          <Length>0</Length>
+          <Unicode>0</Unicode>
+          <CodePage>0</CodePage>
+          <ZeroTerminate>1</ZeroTerminate>
+          <Address>+04D4</Address>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>1111</ID>
+              <Description>"[+04D4] AimAngleMin"</Description>
+              <VariableType>Float</VariableType>
+              <Address>+0000</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1112</ID>
+              <Description>"[+04D8] AimAngleRange"</Description>
+              <VariableType>Float</VariableType>
+              <Address>+0004</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1113</ID>
+              <Description>"[+04DC] AimDistanceAngleMin"</Description>
+              <VariableType>Float</VariableType>
+              <Address>+0008</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1114</ID>
+              <Description>"[+04E0] AimDistanceAngleRange"</Description>
+              <VariableType>Float</VariableType>
+              <Address>+000C</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1115</ID>
+              <Description>"[+04E4] AimDistanceMin"</Description>
+              <VariableType>Float</VariableType>
+              <Address>+0010</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1116</ID>
+              <Description>"[+04E8] AimDistanceRange"</Description>
+              <VariableType>Float</VariableType>
+              <Address>+0014</Address>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>3413</ID>
+          <Description>"[+04EC] SpaceShipAim"</Description>
+          <Options moManualExpandCollapse="1" moAllowManualCollapseAndExpand="1"/>
+          <LastState RealAddress="0000054C"/>
+          <Color>FF0000</Color>
+          <VariableType>String</VariableType>
+          <Length>0</Length>
+          <Unicode>0</Unicode>
+          <CodePage>0</CodePage>
+          <ZeroTerminate>1</ZeroTerminate>
+          <Address>+04EC</Address>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>1117</ID>
+              <Description>"[+04EC] AimAngleMin"</Description>
+              <VariableType>Float</VariableType>
+              <Address>+0000</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1118</ID>
+              <Description>"[+04F0] AimAngleRange"</Description>
+              <VariableType>Float</VariableType>
+              <Address>+0004</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1119</ID>
+              <Description>"[+04F4] AimDistanceAngleMin"</Description>
+              <VariableType>Float</VariableType>
+              <Address>+0008</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1120</ID>
+              <Description>"[+04F8] AimDistanceAngleRange"</Description>
+              <VariableType>Float</VariableType>
+              <Address>+000C</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1121</ID>
+              <Description>"[+04FC] AimDistanceMin"</Description>
+              <VariableType>Float</VariableType>
+              <Address>+0010</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1122</ID>
+              <Description>"[+0500] AimDistanceRange"</Description>
+              <VariableType>Float</VariableType>
+              <Address>+0014</Address>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1123</ID>
+          <Description>"[+0504] Unknown"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>+504</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1124</ID>
+          <Description>"[+0508] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+508</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1125</ID>
+          <Description>"[+050C] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+50C</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1126</ID>
+          <Description>"[+0510] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+510</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1127</ID>
+          <Description>"[+0514] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+514</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1128</ID>
+          <Description>"[+0518] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+518</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1129</ID>
+          <Description>"[+051C] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+51C</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1130</ID>
+          <Description>"[+0520] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+520</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1131</ID>
+          <Description>"[+0524] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+524</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1132</ID>
+          <Description>"[+0528] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+528</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1133</ID>
+          <Description>"[+052C] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+52C</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1134</ID>
+          <Description>"[+0530] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+530</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1135</ID>
+          <Description>"[+0534] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+534</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1136</ID>
+          <Description>"[+0538] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+538</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1137</ID>
+          <Description>"[+053C] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+53C</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1138</ID>
+          <Description>"[+0540] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+540</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1139</ID>
+          <Description>"[+0544] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+544</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1140</ID>
+          <Description>"[+0548] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+548</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1141</ID>
+          <Description>"[+054C] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+54C</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1142</ID>
+          <Description>"[+0550] PulseEngine MinClearance"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+550</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1143</ID>
+          <Description>"[+0554] PulseEngine Delay"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+554</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1144</ID>
+          <Description>"[+0558] PulseEngine MaxSpeed"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+558</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1145</ID>
+          <Description>"[+055C] PulseEngine ClearanceMultiplier"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+55C</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1146</ID>
+          <Description>"[+0560] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+560</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1147</ID>
+          <Description>"[+0564] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+564</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1148</ID>
+          <Description>"[+0568] PulseEngine PlanetEngageRangeMin"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+568</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1149</ID>
+          <Description>"[+056C] PulseEngine PlanetDisengageRange"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+56C</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1150</ID>
+          <Description>"[+0570] PulseEngine SpaceStationEngageRangeMin"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+570</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1151</ID>
+          <Description>"[+0574] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+574</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1152</ID>
+          <Description>"[+0578] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+578</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1153</ID>
+          <Description>"[+057C] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+57C</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1154</ID>
+          <Description>"[+0580] PulseEngine ExitForce"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+580</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1155</ID>
+          <Description>"[+0584] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+584</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1156</ID>
+          <Description>"[+0588] Unknown"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>+588</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1157</ID>
+          <Description>"[+058C] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+58C</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1158</ID>
+          <Description>"[+0590] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+590</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1159</ID>
+          <Description>"[+0594] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+594</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1160</ID>
+          <Description>"[+0598] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+598</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1161</ID>
+          <Description>"[+059C] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+59C</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1162</ID>
+          <Description>"[+05A0] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+5A0</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1163</ID>
+          <Description>"[+05A4] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+5A4</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1164</ID>
+          <Description>"[+05A8] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+5A8</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1165</ID>
+          <Description>"[+05AC] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+5AC</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1166</ID>
+          <Description>"[+05B0] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+5B0</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1167</ID>
+          <Description>"[+05B4] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+5B4</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1168</ID>
+          <Description>"[+05B8] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+5B8</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1169</ID>
+          <Description>"[+05BC] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+5BC</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1170</ID>
+          <Description>"[+05C0] Unknown"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>+5C0</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1171</ID>
+          <Description>"[+05C4] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+5C4</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1172</ID>
+          <Description>"[+05C8] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+5C8</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1173</ID>
+          <Description>"[+05CC] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+5CC</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1174</ID>
+          <Description>"[+05D0] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+5D0</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1175</ID>
+          <Description>"[+05D4] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+5D4</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1176</ID>
+          <Description>"[+05D8] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+5D8</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1177</ID>
+          <Description>"[+05DC] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+5DC</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1178</ID>
+          <Description>"[+05E0] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+5E0</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1179</ID>
+          <Description>"[+05E4] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+5E4</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1180</ID>
+          <Description>"[+05E8] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+5E8</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1181</ID>
+          <Description>"[+05EC] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+5EC</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1182</ID>
+          <Description>"[+05F0] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+5F0</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1183</ID>
+          <Description>"[+05F4] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+5F4</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1184</ID>
+          <Description>"[+05F8] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+5F8</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1185</ID>
+          <Description>"[+05FC] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+5FC</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1186</ID>
+          <Description>"[+0600] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+600</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1187</ID>
+          <Description>"[+0604] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+604</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1188</ID>
+          <Description>"[+0608] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+608</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1189</ID>
+          <Description>"[+060C] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+60C</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1190</ID>
+          <Description>"[+0610] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+610</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1191</ID>
+          <Description>"[+0614] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+614</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1192</ID>
+          <Description>"[+0618] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+618</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1193</ID>
+          <Description>"[+061C] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+61C</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1194</ID>
+          <Description>"[+0620] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+620</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1195</ID>
+          <Description>"[+0624] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+624</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1196</ID>
+          <Description>"[+0628] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+628</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1197</ID>
+          <Description>"[+062C] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+62C</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1198</ID>
+          <Description>"[+0630] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+630</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1199</ID>
+          <Description>"[+0634] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+634</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1200</ID>
+          <Description>"[+0638] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+638</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1201</ID>
+          <Description>"[+063C] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+63C</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1202</ID>
+          <Description>"[+0640] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+640</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1203</ID>
+          <Description>"[+0644] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+644</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>3435</ID>
+          <Description>"[+0648] Unknown"</Description>
+          <VariableType>Byte</VariableType>
+          <Address>+648</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>3436</ID>
+          <Description>"[+0649] reserved"</Description>
+          <Color>C0C0C0</Color>
+          <VariableType>Byte</VariableType>
+          <Address>+649</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>3437</ID>
+          <Description>"[+064A] reserved"</Description>
+          <Color>C0C0C0</Color>
+          <VariableType>Byte</VariableType>
+          <Address>+64A</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>3438</ID>
+          <Description>"[+064B] reserved"</Description>
+          <Color>C0C0C0</Color>
+          <VariableType>Byte</VariableType>
+          <Address>+64B</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1205</ID>
+          <Description>"[+064C] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+64C</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1206</ID>
+          <Description>"[+0650] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+650</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1207</ID>
+          <Description>"[+0654] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+654</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1208</ID>
+          <Description>"[+0658] Unknown"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>+658</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1209</ID>
+          <Description>"[+065C] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+65C</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1210</ID>
+          <Description>"[+0660] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+660</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1211</ID>
+          <Description>"[+0664] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+664</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1212</ID>
+          <Description>"[+0668] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+668</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1213</ID>
+          <Description>"[+066C] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+66C</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1214</ID>
+          <Description>"[+0670] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+670</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1215</ID>
+          <Description>"[+0674] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+674</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1216</ID>
+          <Description>"[+0678] Unknown"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>+678</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1217</ID>
+          <Description>"[+067C] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+67C</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1218</ID>
+          <Description>"[+0680] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+680</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1219</ID>
+          <Description>"[+0684] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+684</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1220</ID>
+          <Description>"[+0688] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+688</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1221</ID>
+          <Description>"[+068C] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+68C</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1222</ID>
+          <Description>"[+0690] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+690</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1223</ID>
+          <Description>"[+0694] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+694</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1224</ID>
+          <Description>"[+0698] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+698</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1225</ID>
+          <Description>"[+069C] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+69C</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1226</ID>
+          <Description>"[+06A0] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+6A0</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1227</ID>
+          <Description>"[+06A4] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+6A4</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1228</ID>
+          <Description>"[+06A8] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+6A8</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1229</ID>
+          <Description>"[+06AC] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+6AC</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1230</ID>
+          <Description>"[+06B0] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+6B0</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1231</ID>
+          <Description>"[+06B4] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+6B4</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1232</ID>
+          <Description>"[+06B8] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+6B8</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1233</ID>
+          <Description>"[+06BC] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+6BC</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1234</ID>
+          <Description>"[+06C0] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+6C0</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1235</ID>
+          <Description>"[+06C4] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+6C4</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1236</ID>
+          <Description>"[+06C8] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+6C8</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1237</ID>
+          <Description>"[+06CC] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+6CC</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>3439</ID>
+          <Description>"[+06D0] PlayerSpaceshipWarpData"</Description>
+          <Options moManualExpandCollapse="1" moAllowManualCollapseAndExpand="1"/>
+          <LastState RealAddress="00000730"/>
+          <Color>FF0000</Color>
+          <VariableType>String</VariableType>
+          <Length>0</Length>
+          <Unicode>0</Unicode>
+          <CodePage>0</CodePage>
+          <ZeroTerminate>1</ZeroTerminate>
+          <Address>+06D0</Address>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>1238</ID>
+              <Description>"[+06D0] EntryTime"</Description>
+              <VariableType>Float</VariableType>
+              <Address>+0000</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1239</ID>
+              <Description>"[+06D4] EntryTunnelCurve"</Description>
+              <DropDownList ReadOnly="1" DescriptionOnly="1" DisplayValueAsItem="1">0:Linear
+1:SmoothInOut
+2:FastInSlowOut
+3:BellSquared
+4:Squared
+5:Cubed
+6:Logarithmic
+7:SlowIn
+8:SlowOut
+9:ReallySlowOut
+10:SmootherStep
+11:SmoothFastInSlowOut
+12:SmoothSlowInFastOut
+13:EaseInSine
+14:EaseOutSine
+15:EaseInOutSine
+16:EaseInQuad
+17:EaseOutQuad
+18:EaseInOutQuad
+19:EaseInQuart
+20:EaseOutQuart
+21:EaseInOutQuart
+22:EaseInQuint
+23:EaseOutQuint
+24:EaseInOutQuint
+25:EaseInExpo
+26:EaseOutExpo
+27:EaseInOutExpo
+28:EaseInCirc
+29:EaseOutCirc
+30:EaseInOutCirc
+31:EaseInBack
+32:EaseOutBack
+33:EaseInOutBack
+34:EaseInElastic
+35:EaseOutElastic
+36:EaseInOutElastic
+37:EaseInBounce
+38:EaseOutBounce
+39:EaseInOutBounce
+</DropDownList>
+              <VariableType>4 Bytes</VariableType>
+              <Address>+0004</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1240</ID>
+              <Description>"[+06D8] EntryTunnelDistance"</Description>
+              <VariableType>Float</VariableType>
+              <Address>+0008</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1241</ID>
+              <Description>"[+06DC] EntryWorldDistance"</Description>
+              <VariableType>Float</VariableType>
+              <Address>+000C</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1242</ID>
+              <Description>"[+06E0] TravelTunnelTime"</Description>
+              <VariableType>Float</VariableType>
+              <Address>+0010</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1243</ID>
+              <Description>"[+06E4] TravelTunnelDriftDistance"</Description>
+              <VariableType>Float</VariableType>
+              <Address>+0014</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1244</ID>
+              <Description>"[+06E8] TravelDriftRate"</Description>
+              <VariableType>Float</VariableType>
+              <Address>+0018</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1245</ID>
+              <Description>"[+06EC] ExitTime"</Description>
+              <VariableType>Float</VariableType>
+              <Address>+001C</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1246</ID>
+              <Description>"[+06F0] ExitHoldAlphaTime"</Description>
+              <VariableType>Float</VariableType>
+              <Address>+0020</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1247</ID>
+              <Description>"[+06F4] ExitTunnelCurve"</Description>
+              <DropDownList ReadOnly="1" DescriptionOnly="1" DisplayValueAsItem="1">0:Linear
+1:SmoothInOut
+2:FastInSlowOut
+3:BellSquared
+4:Squared
+5:Cubed
+6:Logarithmic
+7:SlowIn
+8:SlowOut
+9:ReallySlowOut
+10:SmootherStep
+11:SmoothFastInSlowOut
+12:SmoothSlowInFastOut
+13:EaseInSine
+14:EaseOutSine
+15:EaseInOutSine
+16:EaseInQuad
+17:EaseOutQuad
+18:EaseInOutQuad
+19:EaseInQuart
+20:EaseOutQuart
+21:EaseInOutQuart
+22:EaseInQuint
+23:EaseOutQuint
+24:EaseInOutQuint
+25:EaseInExpo
+26:EaseOutExpo
+27:EaseInOutExpo
+28:EaseInCirc
+29:EaseOutCirc
+30:EaseInOutCirc
+31:EaseInBack
+32:EaseOutBack
+33:EaseInOutBack
+34:EaseInElastic
+35:EaseOutElastic
+36:EaseInOutElastic
+37:EaseInBounce
+38:EaseOutBounce
+39:EaseInOutBounce
+</DropDownList>
+              <VariableType>4 Bytes</VariableType>
+              <Address>+0024</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1248</ID>
+              <Description>"[+06F8] ExitTunnelDistance"</Description>
+              <VariableType>Float</VariableType>
+              <Address>+0028</Address>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>1249</ID>
+              <Description>"[+06FC] ExitWorldDistance"</Description>
+              <VariableType>Float</VariableType>
+              <Address>+002C</Address>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1250</ID>
+          <Description>"[+0700] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+700</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1251</ID>
+          <Description>"[+0704] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+704</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1252</ID>
+          <Description>"[+0708] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+708</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1253</ID>
+          <Description>"[+070C] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+70C</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1254</ID>
+          <Description>"[+0710] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+710</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1255</ID>
+          <Description>"[+0714] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+714</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1256</ID>
+          <Description>"[+0718] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+718</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1257</ID>
+          <Description>"[+071C] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+71C</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1258</ID>
+          <Description>"[+0720] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+720</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1259</ID>
+          <Description>"[+0724] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+724</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1260</ID>
+          <Description>"[+0728] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+728</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1261</ID>
+          <Description>"[+072C] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+72C</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1262</ID>
+          <Description>"[+0730] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+730</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1263</ID>
+          <Description>"[+0734] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+734</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1264</ID>
+          <Description>"[+0738] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+738</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1265</ID>
+          <Description>"[+073C] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+73C</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1266</ID>
+          <Description>"[+0740] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+740</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1267</ID>
+          <Description>"[+0744] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+744</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1268</ID>
+          <Description>"[+0748] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+748</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1269</ID>
+          <Description>"[+074C] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+74C</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1270</ID>
+          <Description>"[+0750] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+750</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1271</ID>
+          <Description>"[+0754] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+754</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1272</ID>
+          <Description>"[+0758] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+758</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1273</ID>
+          <Description>"[+075C] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+75C</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1274</ID>
+          <Description>"[+0760] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+760</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1275</ID>
+          <Description>"[+0764] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+764</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1276</ID>
+          <Description>"[+0768] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+768</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1277</ID>
+          <Description>"[+076C] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+76C</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1278</ID>
+          <Description>"[+0770] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+770</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1279</ID>
+          <Description>"[+0774] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+774</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1280</ID>
+          <Description>"[+0778] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+778</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1281</ID>
+          <Description>"[+077C] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+77C</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1282</ID>
+          <Description>"[+0780] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+780</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1283</ID>
+          <Description>"[+0784] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+784</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1284</ID>
+          <Description>"[+0788] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+788</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1285</ID>
+          <Description>"[+078C] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+78C</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1286</ID>
+          <Description>"[+0790] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+790</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1287</ID>
+          <Description>"[+0794] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+794</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1288</ID>
+          <Description>"[+0798] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+798</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1289</ID>
+          <Description>"[+079C] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+79C</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1290</ID>
+          <Description>"[+07A0] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+7A0</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1291</ID>
+          <Description>"[+07A4] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+7A4</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1292</ID>
+          <Description>"[+07A8] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+7A8</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1293</ID>
+          <Description>"[+07AC] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+7AC</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1294</ID>
+          <Description>"[+07B0] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+7B0</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1295</ID>
+          <Description>"[+07B4] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+7B4</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1296</ID>
+          <Description>"[+07B8] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+7B8</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1297</ID>
+          <Description>"[+07BC] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+7BC</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1298</ID>
+          <Description>"[+07C0] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+7C0</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1299</ID>
+          <Description>"[+07C4] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+7C4</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1300</ID>
+          <Description>"[+07C8] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+7C8</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1301</ID>
+          <Description>"[+07CC] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+7CC</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1302</ID>
+          <Description>"[+07D0] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+7D0</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1303</ID>
+          <Description>"[+07D4] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+7D4</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1304</ID>
+          <Description>"[+07D8] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+7D8</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1305</ID>
+          <Description>"[+07DC] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+7DC</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1306</ID>
+          <Description>"[+07E0] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+7E0</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1307</ID>
+          <Description>"[+07E4] ShipEnterTime"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+7E4</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1308</ID>
+          <Description>"[+07E8] DropShipScenePath"</Description>
+          <VariableType>String</VariableType>
+          <Length>128</Length>
+          <Unicode>0</Unicode>
+          <CodePage>0</CodePage>
+          <ZeroTerminate>1</ZeroTerminate>
+          <Address>+7E8</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1340</ID>
+          <Description>"[+0868] FighterScenePath"</Description>
+          <VariableType>String</VariableType>
+          <Length>128</Length>
+          <Unicode>0</Unicode>
+          <CodePage>0</CodePage>
+          <ZeroTerminate>1</ZeroTerminate>
+          <Address>+868</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1372</ID>
+          <Description>"[+08E8] ScientificScenePath"</Description>
+          <VariableType>String</VariableType>
+          <Length>128</Length>
+          <Unicode>0</Unicode>
+          <CodePage>0</CodePage>
+          <ZeroTerminate>1</ZeroTerminate>
+          <Address>+8E8</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1404</ID>
+          <Description>"[+0968] ShuttleScenePath"</Description>
+          <VariableType>String</VariableType>
+          <Length>128</Length>
+          <Unicode>0</Unicode>
+          <CodePage>0</CodePage>
+          <ZeroTerminate>1</ZeroTerminate>
+          <Address>+968</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1436</ID>
+          <Description>"[+09E8] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+9E8</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1437</ID>
+          <Description>"[+09EC] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+9EC</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1438</ID>
+          <Description>"[+09F0] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+9F0</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1439</ID>
+          <Description>"[+09F4] Unknown"</Description>
+          <VariableType>Float</VariableType>
+          <Address>+9F4</Address>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+  </CheatEntries>
+  <UserdefinedSymbols/>
+  <LuaScript>-- gcSpaceshipGlobals-Signature.lua
+-- Author: Gaticus Hax
+-- License: Public Domain
+
+require("Scripts.HaxablesMonitor")
+
+local mbinFile      = "GCSPACESHIPGLOBALS.GLOBAL.MBIN"
+local dataSignature = "00 00 01 00 00 01 01 00 00 00 80 3F 00 00 8C 42 00 00 80 3F 00 00 40 40 00 00 A0 41 00 00 C0 40"
+local dataOffset    = 0x0000
+
+defineMBIN(mbinFile, dataSignature, dataOffset)
+</LuaScript>
+</CheatTable>

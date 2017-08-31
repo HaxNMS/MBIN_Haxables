@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CheatTable CheatEngineTableVersion="26">
+  <CheatEntries>
+    <CheatEntry>
+      <ID>13</ID>
+      <Description>"No description"</Description>
+      <LastState RealAddress="00000060"/>
+      <VariableType>String</VariableType>
+      <Length>0</Length>
+      <Unicode>0</Unicode>
+      <CodePage>0</CodePage>
+      <ZeroTerminate>1</ZeroTerminate>
+      <Address>0x60</Address>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>3</ID>
+          <Description>"String"</Description>
+          <VariableType>String</VariableType>
+          <Length>32</Length>
+          <Unicode>0</Unicode>
+          <CodePage>0</CodePage>
+          <ZeroTerminate>1</ZeroTerminate>
+          <Address>0000034C</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>4</ID>
+          <Description>"String"</Description>
+          <VariableType>String</VariableType>
+          <Length>32</Length>
+          <Unicode>0</Unicode>
+          <CodePage>0</CodePage>
+          <ZeroTerminate>1</ZeroTerminate>
+          <Address>0000046C</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>5</ID>
+          <Description>"String"</Description>
+          <VariableType>String</VariableType>
+          <Length>32</Length>
+          <Unicode>0</Unicode>
+          <CodePage>0</CodePage>
+          <ZeroTerminate>1</ZeroTerminate>
+          <Address>0000058C</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>6</ID>
+          <Description>"String"</Description>
+          <VariableType>String</VariableType>
+          <Length>32</Length>
+          <Unicode>0</Unicode>
+          <CodePage>0</CodePage>
+          <ZeroTerminate>1</ZeroTerminate>
+          <Address>000006AC</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>7</ID>
+          <Description>"String"</Description>
+          <VariableType>String</VariableType>
+          <Length>32</Length>
+          <Unicode>0</Unicode>
+          <CodePage>0</CodePage>
+          <ZeroTerminate>1</ZeroTerminate>
+          <Address>000007CC</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>8</ID>
+          <Description>"String"</Description>
+          <VariableType>String</VariableType>
+          <Length>32</Length>
+          <Unicode>0</Unicode>
+          <CodePage>0</CodePage>
+          <ZeroTerminate>1</ZeroTerminate>
+          <Address>000008EC</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>9</ID>
+          <Description>"String"</Description>
+          <VariableType>String</VariableType>
+          <Length>128</Length>
+          <Unicode>0</Unicode>
+          <CodePage>0</CodePage>
+          <ZeroTerminate>1</ZeroTerminate>
+          <Address>00000AA4</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>10</ID>
+          <Description>"String"</Description>
+          <VariableType>String</VariableType>
+          <Length>32</Length>
+          <Unicode>0</Unicode>
+          <CodePage>0</CodePage>
+          <ZeroTerminate>1</ZeroTerminate>
+          <Address>00000B2C</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>11</ID>
+          <Description>"String"</Description>
+          <VariableType>String</VariableType>
+          <Length>128</Length>
+          <Unicode>0</Unicode>
+          <CodePage>0</CodePage>
+          <ZeroTerminate>1</ZeroTerminate>
+          <Address>00000BC4</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>12</ID>
+          <Description>"String"</Description>
+          <VariableType>String</VariableType>
+          <Length>128</Length>
+          <Unicode>0</Unicode>
+          <CodePage>0</CodePage>
+          <ZeroTerminate>1</ZeroTerminate>
+          <Address>00000CE4</Address>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+  </CheatEntries>
+  <UserdefinedSymbols/>
+  <Structures StructVersion="2">
+    <Structure Name="MBIN Data Block" AutoFill="0" AutoCreate="1" DefaultHex="0" AutoDestroy="0" DoNotSaveLocal="0" RLECompression="1" AutoCreateStructsize="4096">
+      <Elements>
+        <Element Offset="748" Vartype="String" Bytesize="32" DisplayMethod="Unsigned Integer"/>
+        <Element Offset="1036" Vartype="String" Bytesize="25" DisplayMethod="Unsigned Integer"/>
+        <Element Offset="1324" Vartype="String" Bytesize="27" DisplayMethod="Unsigned Integer"/>
+        <Element Offset="1612" Vartype="String" Bytesize="28" DisplayMethod="Unsigned Integer"/>
+        <Element Offset="1900" Vartype="String" Bytesize="26" DisplayMethod="Unsigned Integer"/>
+        <Element Offset="2188" Vartype="String" Bytesize="26" DisplayMethod="Unsigned Integer"/>
+        <Element Offset="2628" Vartype="String" Bytesize="128" DisplayMethod="Unsigned Integer"/>
+        <Element Offset="2764" Vartype="String" Bytesize="32" DisplayMethod="Unsigned Integer"/>
+        <Element Offset="2916" Vartype="String" Bytesize="128" DisplayMethod="Unsigned Integer"/>
+        <Element Offset="3204" Vartype="String" Bytesize="128" DisplayMethod="Unsigned Integer"/>
+      </Elements>
+    </Structure>
+    <Structure Name="Unknown structure 1" AutoFill="0" AutoCreate="1" DefaultHex="0" AutoDestroy="0" DoNotSaveLocal="0" RLECompression="1" AutoCreateStructsize="4096">
+      <Elements/>
+    </Structure>
+  </Structures>
+  <LuaScript>-- gcGalaxMapGlobals-Signature.lua
+-- Author: Gaticus Hax
+-- License: Public Domain
+
+require("Scripts.HaxablesMonitor")
+
+local mbinFile      = "GCGALAXYGLOBALS.GLOBAL.MBIN"
+local dataSignature = "00 00 90 40 00 00 40 40 00 00 00 40 00 00 00 41 00 00 00 00 CD CC 4C 3F 00 00 80 3F 00 00 00 40"
+local dataOffset    = 0x0000
+
+defineMBIN(mbinFile, dataSignature, dataOffset)
+</LuaScript>
+</CheatTable>

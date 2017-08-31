@@ -1,0 +1,2249 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CheatTable CheatEngineTableVersion="26">
+  <CheatEntries>
+    <CheatEntry>
+      <ID>0</ID>
+      <Description>"gcDebugOptions"</Description>
+      <Options moManualExpandCollapse="1" moAllowManualCollapseAndExpand="1"/>
+      <LastState RealAddress="00000060"/>
+      <Color>FF0000</Color>
+      <VariableType>String</VariableType>
+      <Length>0</Length>
+      <Unicode>0</Unicode>
+      <CodePage>0</CodePage>
+      <ZeroTerminate>1</ZeroTerminate>
+      <Address>0x60</Address>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>1</ID>
+          <Description>"[+0000] SkipIntro (New Game Intro)"</Description>
+          <DropDownList ReadOnly="1" DescriptionOnly="1" DisplayValueAsItem="1">0:false
+1:true
+</DropDownList>
+          <LastState Value="1" RealAddress="00000060"/>
+          <Color>008000</Color>
+          <VariableType>Byte</VariableType>
+          <Address>+0</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>2</ID>
+          <Description>"[+0001] ? VideoCaptureMode"</Description>
+          <DropDownList ReadOnly="1" DescriptionOnly="1" DisplayValueAsItem="1">0:false
+1:true
+</DropDownList>
+          <LastState Value="0" RealAddress="00000061"/>
+          <VariableType>Byte</VariableType>
+          <Address>+1</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>3</ID>
+          <Description>"[+0002] "</Description>
+          <DropDownList ReadOnly="1" DescriptionOnly="1" DisplayValueAsItem="1">0:false
+1:true
+</DropDownList>
+          <LastState Value="0" RealAddress="00000062"/>
+          <VariableType>Byte</VariableType>
+          <Address>+2</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>4</ID>
+          <Description>"[+0003] DebugMode/GodMode toggle? (Enables +0000, +0004, +0009, +000A) (Disables +000F, +0228, +0229, +03DF)"</Description>
+          <DropDownList ReadOnly="1" DescriptionOnly="1" DisplayValueAsItem="1">0:false
+1:true
+</DropDownList>
+          <LastState Value="0" RealAddress="00000063"/>
+          <Color>008000</Color>
+          <VariableType>Byte</VariableType>
+          <Address>+3</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>5</ID>
+          <Description>"[+0004] ? AlwaysHaveFocus"</Description>
+          <DropDownList ReadOnly="1" DescriptionOnly="1" DisplayValueAsItem="1">0:false
+1:true
+</DropDownList>
+          <LastState Value="0" RealAddress="00000064"/>
+          <VariableType>Byte</VariableType>
+          <Address>+4</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>6</ID>
+          <Description>"[+0005] ? DisableVibration"</Description>
+          <DropDownList ReadOnly="1" DescriptionOnly="1" DisplayValueAsItem="1">0:false
+1:true
+</DropDownList>
+          <LastState Value="0" RealAddress="00000065"/>
+          <VariableType>Byte</VariableType>
+          <Address>+5</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>7</ID>
+          <Description>"[+0006] "</Description>
+          <DropDownList ReadOnly="1" DescriptionOnly="1" DisplayValueAsItem="1">0:false
+1:true
+</DropDownList>
+          <LastState Value="0" RealAddress="00000066"/>
+          <VariableType>Byte</VariableType>
+          <Address>+6</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>8</ID>
+          <Description>"[+0007] ? MapWarpCheckIgnoreFuel"</Description>
+          <DropDownList ReadOnly="1" DescriptionOnly="1" DisplayValueAsItem="1">0:false
+1:true
+</DropDownList>
+          <LastState Value="1" RealAddress="00000067"/>
+          <VariableType>Byte</VariableType>
+          <Address>+7</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>9</ID>
+          <Description>"[+0008] ? MapWarpCheckIgnoreDrive"</Description>
+          <DropDownList ReadOnly="1" DescriptionOnly="1" DisplayValueAsItem="1">0:false
+1:true
+</DropDownList>
+          <LastState Value="1" RealAddress="00000068"/>
+          <VariableType>Byte</VariableType>
+          <Address>+8</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>10</ID>
+          <Description>"[+0009] EverythingIsFree"</Description>
+          <DropDownList ReadOnly="1" DescriptionOnly="1" DisplayValueAsItem="1">0:false
+1:true
+</DropDownList>
+          <LastState Value="1" RealAddress="00000069"/>
+          <Color>008000</Color>
+          <VariableType>Byte</VariableType>
+          <Address>+9</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>11</ID>
+          <Description>"[+000A] EverythingIsKnown"</Description>
+          <DropDownList ReadOnly="1" DescriptionOnly="1" DisplayValueAsItem="1">0:false
+1:true
+</DropDownList>
+          <LastState Value="1" RealAddress="0000006A"/>
+          <Color>008000</Color>
+          <VariableType>Byte</VariableType>
+          <Address>+A</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>12</ID>
+          <Description>"[+000B] ? EverythingIsBestPrice"</Description>
+          <DropDownList ReadOnly="1" DescriptionOnly="1" DisplayValueAsItem="1">0:false
+1:true
+</DropDownList>
+          <LastState Value="1" RealAddress="0000006B"/>
+          <VariableType>Byte</VariableType>
+          <Address>+B</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>13</ID>
+          <Description>"[+000C] Unknown"</Description>
+          <DropDownList ReadOnly="1" DescriptionOnly="1" DisplayValueAsItem="1">0:false
+1:true
+</DropDownList>
+          <LastState Value="0" RealAddress="0000006C"/>
+          <VariableType>Byte</VariableType>
+          <Address>+C</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>14</ID>
+          <Description>"[+000D] Unknown"</Description>
+          <DropDownList ReadOnly="1" DescriptionOnly="1" DisplayValueAsItem="1">0:false
+1:true
+</DropDownList>
+          <LastState Value="0" RealAddress="0000006D"/>
+          <VariableType>Byte</VariableType>
+          <Address>+D</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>15</ID>
+          <Description>"[+000E] Unknown"</Description>
+          <DropDownList ReadOnly="1" DescriptionOnly="1" DisplayValueAsItem="1">0:false
+1:true
+</DropDownList>
+          <LastState Value="1" RealAddress="0000006E"/>
+          <VariableType>Byte</VariableType>
+          <Address>+E</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>16</ID>
+          <Description>"[+000F] UseScreenEffects"</Description>
+          <DropDownList ReadOnly="1" DescriptionOnly="1" DisplayValueAsItem="1">0:false
+1:true
+</DropDownList>
+          <LastState Value="1" RealAddress="0000006F"/>
+          <VariableType>Byte</VariableType>
+          <Address>+F</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>17</ID>
+          <Description>"[+0010] UseGunImpactEffect"</Description>
+          <DropDownList ReadOnly="1" DescriptionOnly="1" DisplayValueAsItem="1">0:false
+1:true
+</DropDownList>
+          <LastState Value="1" RealAddress="00000070"/>
+          <VariableType>Byte</VariableType>
+          <Address>+10</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>18</ID>
+          <Description>"[+0011] RenderCreatureDetails"</Description>
+          <DropDownList ReadOnly="1" DescriptionOnly="1" DisplayValueAsItem="1">0:false
+1:true
+</DropDownList>
+          <LastState Value="0" RealAddress="00000071"/>
+          <VariableType>Byte</VariableType>
+          <Address>+11</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>19</ID>
+          <Description>"[+0012] UseDebugScreenSettings"</Description>
+          <DropDownList ReadOnly="1" DescriptionOnly="1" DisplayValueAsItem="1">0:false
+1:true
+</DropDownList>
+          <LastState Value="0" RealAddress="00000072"/>
+          <Color>008000</Color>
+          <VariableType>Byte</VariableType>
+          <Address>+12</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>20</ID>
+          <Description>"[+0013] Unknown"</Description>
+          <DropDownList ReadOnly="1" DescriptionOnly="1" DisplayValueAsItem="1">0:false
+1:true
+</DropDownList>
+          <LastState Value="0" RealAddress="00000073"/>
+          <VariableType>Byte</VariableType>
+          <Address>+13</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>21</ID>
+          <Description>"[+0014] ScreenWidth"</Description>
+          <LastState Value="1920" RealAddress="00000074"/>
+          <Color>008000</Color>
+          <VariableType>4 Bytes</VariableType>
+          <Address>+14</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>25</ID>
+          <Description>"[+0018] ScreenHeight"</Description>
+          <LastState Value="1080" RealAddress="00000078"/>
+          <Color>008000</Color>
+          <VariableType>4 Bytes</VariableType>
+          <Address>+18</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>29</ID>
+          <Description>"[+001C] DisableVSync"</Description>
+          <LastState Value="0" RealAddress="0000007C"/>
+          <VariableType>Byte</VariableType>
+          <Address>+1C</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>30</ID>
+          <Description>"[+001D] Unknown"</Description>
+          <LastState Value="0" RealAddress="0000007D"/>
+          <VariableType>Byte</VariableType>
+          <Address>+1D</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>31</ID>
+          <Description>"[+001E] Unknown"</Description>
+          <LastState Value="0" RealAddress="0000007E"/>
+          <VariableType>Byte</VariableType>
+          <Address>+1E</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>32</ID>
+          <Description>"[+001F] Unknown"</Description>
+          <LastState Value="0" RealAddress="0000007F"/>
+          <VariableType>Byte</VariableType>
+          <Address>+1F</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>33</ID>
+          <Description>"[+0020] GameWindowMode"</Description>
+          <DropDownList ReadOnly="1" DescriptionOnly="1" DisplayValueAsItem="1">0:Bordered
+1:Borderless
+2:Fullscreen
+</DropDownList>
+          <LastState Value="0" RealAddress="00000080"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>+20</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>37</ID>
+          <Description>"[+0024] Monitor"</Description>
+          <LastState Value="0" RealAddress="00000084"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>+24</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>41</ID>
+          <Description>"[+0028] ForceUniverseAddress"</Description>
+          <LastState RealAddress="00000088"/>
+          <VariableType>String</VariableType>
+          <Length>256</Length>
+          <Unicode>0</Unicode>
+          <CodePage>0</CodePage>
+          <ZeroTerminate>1</ZeroTerminate>
+          <Address>+28</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>297</ID>
+          <Description>"[+0128] ForcePlayerPosition"</Description>
+          <LastState RealAddress="00000188"/>
+          <VariableType>String</VariableType>
+          <Length>256</Length>
+          <Unicode>0</Unicode>
+          <CodePage>0</CodePage>
+          <ZeroTerminate>1</ZeroTerminate>
+          <Address>+128</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>553</ID>
+          <Description>"[+0228] ForceInitialShip"</Description>
+          <DropDownList ReadOnly="1" DescriptionOnly="1" DisplayValueAsItem="1">0:false
+1:true
+</DropDownList>
+          <LastState Value="1" RealAddress="00000288"/>
+          <Color>008000</Color>
+          <VariableType>Byte</VariableType>
+          <Address>+228</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>554</ID>
+          <Description>"[+0229] ForceInitialWeapon"</Description>
+          <DropDownList ReadOnly="1" DescriptionOnly="1" DisplayValueAsItem="1">0:false
+1:true
+</DropDownList>
+          <LastState Value="1" RealAddress="00000289"/>
+          <Color>008000</Color>
+          <VariableType>Byte</VariableType>
+          <Address>+229</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>555</ID>
+          <Description>"[+022A] Unknown"</Description>
+          <LastState Value="0" RealAddress="0000028A"/>
+          <VariableType>Byte</VariableType>
+          <Address>+22A</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>556</ID>
+          <Description>"[+022B] Unknown"</Description>
+          <LastState Value="0" RealAddress="0000028B"/>
+          <VariableType>Byte</VariableType>
+          <Address>+22B</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>557</ID>
+          <Description>"[+022C] GameStateMode"</Description>
+          <DropDownList ReadOnly="1" DescriptionOnly="1" DisplayValueAsItem="1">0:LoadPreset
+1:UserStorage
+2:FreshStart
+</DropDownList>
+          <LastState Value="1" RealAddress="0000028C"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>+22C</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>561</ID>
+          <Description>"[+0230] BootMode"</Description>
+          <DropDownList ReadOnly="1" DescriptionOnly="1" DisplayValueAsItem="1">0:SolarSystem
+1:GalaxyMap
+2:SmokeTest
+3:SmokeTestGalaxyMap
+4:ScratchPad
+5:UnitTest
+</DropDownList>
+          <LastState Value="1" RealAddress="00000290"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>+230</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>565</ID>
+          <Description>"[+0234] PlayerSpawnLocationOverride"</Description>
+          <DropDownList ReadOnly="1" DescriptionOnly="1" DisplayValueAsItem="1">0:None
+1:FromSettings
+2:Space
+3:SpaceStation
+4:RandomPlanet
+5:GameStartPlanet
+</DropDownList>
+          <LastState Value="5" RealAddress="00000294"/>
+          <VariableType>Byte</VariableType>
+          <Address>+234</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>569</ID>
+          <Description>"[+0238] SceneSettings"</Description>
+          <LastState RealAddress="00000298"/>
+          <VariableType>String</VariableType>
+          <Length>128</Length>
+          <Unicode>0</Unicode>
+          <CodePage>0</CodePage>
+          <ZeroTerminate>1</ZeroTerminate>
+          <Address>+238</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>697</ID>
+          <Description>"[+02B8] WorkingDirectory"</Description>
+          <LastState RealAddress="00000318"/>
+          <VariableType>String</VariableType>
+          <Length>256</Length>
+          <Unicode>0</Unicode>
+          <CodePage>0</CodePage>
+          <ZeroTerminate>1</ZeroTerminate>
+          <Address>+2B8</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>3406</ID>
+          <Description>"[+03B8] SolarSystemBoot"</Description>
+          <DropDownList ReadOnly="1" DescriptionOnly="1" DisplayValueAsItem="1">0:FromSettings
+1:Generate
+</DropDownList>
+          <LastState Value="1" RealAddress="00000418"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>+03B8</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>957</ID>
+          <Description>"[+03BC] ShaderPreload"</Description>
+          <DropDownList ReadOnly="1" DescriptionOnly="1" DisplayValueAsItem="1">0:Off
+1:Full
+</DropDownList>
+          <LastState Value="0" RealAddress="0000041C"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>+3BC</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>961</ID>
+          <Description>"[+03C0] (unused?) PresetGameMode"</Description>
+          <LastState Value="0" RealAddress="00000420"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>+3C0</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>962</ID>
+          <Description>"[+03C4] ShaderPreloadListExport"</Description>
+          <DropDownList ReadOnly="1" DescriptionOnly="1" DisplayValueAsItem="1">0:false
+1:true
+</DropDownList>
+          <LastState Value="0" RealAddress="00000424"/>
+          <VariableType>Byte</VariableType>
+          <Address>+3C4</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>963</ID>
+          <Description>"[+03C5] ShaderPreloadListImport"</Description>
+          <DropDownList ReadOnly="1" DescriptionOnly="1" DisplayValueAsItem="1">0:false
+1:true
+</DropDownList>
+          <LastState Value="0" RealAddress="00000425"/>
+          <VariableType>Byte</VariableType>
+          <Address>+3C5</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>964</ID>
+          <Description>"[+03C6] ShaderCaching"</Description>
+          <DropDownList ReadOnly="1" DescriptionOnly="1" DisplayValueAsItem="1">0:false
+1:true
+</DropDownList>
+          <LastState Value="0" RealAddress="00000426"/>
+          <VariableType>Byte</VariableType>
+          <Address>+3C6</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>965</ID>
+          <Description>"[+03C7] Unknown/reserved?"</Description>
+          <DropDownList ReadOnly="1" DescriptionOnly="1" DisplayValueAsItem="1">0:false
+1:true
+</DropDownList>
+          <LastState Value="0" RealAddress="00000427"/>
+          <VariableType>Byte</VariableType>
+          <Address>+3C7</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>969</ID>
+          <Description>"[+03C8] BootLoadDelay"</Description>
+          <DropDownList ReadOnly="1" DescriptionOnly="1" DisplayValueAsItem="1">0:false
+1:true
+</DropDownList>
+          <LastState Value="0" RealAddress="00000428"/>
+          <VariableType>Byte</VariableType>
+          <Address>+3C8</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>973</ID>
+          <Description>"[+03CC] UseParticles"</Description>
+          <DropDownList ReadOnly="1" DescriptionOnly="1" DisplayValueAsItem="1">0:false
+1:true
+</DropDownList>
+          <LastState Value="1" RealAddress="0000042C"/>
+          <VariableType>Byte</VariableType>
+          <Address>+3CC</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>974</ID>
+          <Description>"[+03CD] UseVolumetrics"</Description>
+          <DropDownList ReadOnly="1" DescriptionOnly="1" DisplayValueAsItem="1">0:false
+1:true
+</DropDownList>
+          <LastState Value="1" RealAddress="0000042D"/>
+          <VariableType>Byte</VariableType>
+          <Address>+3CD</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>975</ID>
+          <Description>"[+03CE] UseClouds"</Description>
+          <DropDownList ReadOnly="1" DescriptionOnly="1" DisplayValueAsItem="1">0:false
+1:true
+</DropDownList>
+          <LastState Value="1" RealAddress="0000042E"/>
+          <VariableType>Byte</VariableType>
+          <Address>+3CE</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>976</ID>
+          <Description>"[+03CF] UseTerrain"</Description>
+          <DropDownList ReadOnly="1" DescriptionOnly="1" DisplayValueAsItem="1">0:false
+1:true
+</DropDownList>
+          <LastState Value="1" RealAddress="0000042F"/>
+          <VariableType>Byte</VariableType>
+          <Address>+3CF</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>977</ID>
+          <Description>"[+03D0] UseInstances"</Description>
+          <DropDownList ReadOnly="1" DescriptionOnly="1" DisplayValueAsItem="1">0:false
+1:true
+</DropDownList>
+          <LastState Value="1" RealAddress="00000430"/>
+          <VariableType>Byte</VariableType>
+          <Address>+3D0</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>978</ID>
+          <Description>"[+03D1] UseObjects"</Description>
+          <DropDownList ReadOnly="1" DescriptionOnly="1" DisplayValueAsItem="1">0:false
+1:true
+</DropDownList>
+          <LastState Value="1" RealAddress="00000431"/>
+          <VariableType>Byte</VariableType>
+          <Address>+3D1</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>979</ID>
+          <Description>"[+03D2] UseBuildings"</Description>
+          <DropDownList ReadOnly="1" DescriptionOnly="1" DisplayValueAsItem="1">0:false
+1:true
+</DropDownList>
+          <LastState Value="1" RealAddress="00000432"/>
+          <VariableType>Byte</VariableType>
+          <Address>+3D2</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>980</ID>
+          <Description>"[+03D3] UseCreatures"</Description>
+          <DropDownList ReadOnly="1" DescriptionOnly="1" DisplayValueAsItem="1">0:false
+1:true
+</DropDownList>
+          <LastState Value="1" RealAddress="00000433"/>
+          <VariableType>Byte</VariableType>
+          <Address>+3D3</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>981</ID>
+          <Description>"[+03D4] UseElevation"</Description>
+          <DropDownList ReadOnly="1" DescriptionOnly="1" DisplayValueAsItem="1">0:false
+1:true
+</DropDownList>
+          <LastState Value="1" RealAddress="00000434"/>
+          <VariableType>Byte</VariableType>
+          <Address>+3D4</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>982</ID>
+          <Description>"[+03D5] SpawnPirates"</Description>
+          <DropDownList ReadOnly="1" DescriptionOnly="1" DisplayValueAsItem="1">0:false
+1:true
+</DropDownList>
+          <LastState Value="1" RealAddress="00000435"/>
+          <VariableType>Byte</VariableType>
+          <Address>+3D5</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>983</ID>
+          <Description>"[+03D6] SpawnRobots"</Description>
+          <DropDownList ReadOnly="1" DescriptionOnly="1" DisplayValueAsItem="1">0:false
+1:true
+</DropDownList>
+          <LastState Value="1" RealAddress="00000436"/>
+          <VariableType>Byte</VariableType>
+          <Address>+3D6</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>984</ID>
+          <Description>"[+03D7] SpawnShips"</Description>
+          <DropDownList ReadOnly="1" DescriptionOnly="1" DisplayValueAsItem="1">0:false
+1:true
+</DropDownList>
+          <LastState Value="1" RealAddress="00000437"/>
+          <VariableType>Byte</VariableType>
+          <Address>+3D7</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>985</ID>
+          <Description>"[+03D8] InstanceCollision"</Description>
+          <DropDownList ReadOnly="1" DescriptionOnly="1" DisplayValueAsItem="1">0:false
+1:true
+</DropDownList>
+          <LastState Value="1" RealAddress="00000438"/>
+          <VariableType>Byte</VariableType>
+          <Address>+3D8</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>986</ID>
+          <Description>"[+03D9] MouseLookEnabled"</Description>
+          <DropDownList ReadOnly="1" DescriptionOnly="1" DisplayValueAsItem="1">0:false
+1:true
+</DropDownList>
+          <LastState Value="1" RealAddress="00000439"/>
+          <VariableType>Byte</VariableType>
+          <Address>+3D9</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>987</ID>
+          <Description>"[+03DA] StartPaused"</Description>
+          <DropDownList ReadOnly="1" DescriptionOnly="1" DisplayValueAsItem="1">0:false
+1:true
+</DropDownList>
+          <LastState Value="0" RealAddress="0000043A"/>
+          <VariableType>Byte</VariableType>
+          <Address>+3DA</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>988</ID>
+          <Description>"[+03DB] DisableDebugControls"</Description>
+          <DropDownList ReadOnly="1" DescriptionOnly="1" DisplayValueAsItem="1">0:false
+1:true
+</DropDownList>
+          <LastState Value="0" RealAddress="0000043B"/>
+          <VariableType>Byte</VariableType>
+          <Address>+3DB</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>989</ID>
+          <Description>"[+03DC] DisableAsserts"</Description>
+          <DropDownList ReadOnly="1" DescriptionOnly="1" DisplayValueAsItem="1">0:false
+1:true
+</DropDownList>
+          <LastState Value="0" RealAddress="0000043C"/>
+          <VariableType>Byte</VariableType>
+          <Address>+3DC</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>990</ID>
+          <Description>"[+03DD] FixedFrameRate"</Description>
+          <DropDownList ReadOnly="1" DescriptionOnly="1" DisplayValueAsItem="1">0:false
+1:true
+</DropDownList>
+          <LastState Value="0" RealAddress="0000043D"/>
+          <VariableType>Byte</VariableType>
+          <Address>+3DD</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>991</ID>
+          <Description>"[+03DE] ScreenShotMode"</Description>
+          <DropDownList ReadOnly="1" DescriptionOnly="1" DisplayValueAsItem="1">0:false
+1:true
+</DropDownList>
+          <LastState Value="0" RealAddress="0000043E"/>
+          <VariableType>Byte</VariableType>
+          <Address>+3DE</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>992</ID>
+          <Description>"[+03DF] RenderHUD"</Description>
+          <DropDownList ReadOnly="1" DescriptionOnly="1" DisplayValueAsItem="1">0:false
+1:true
+</DropDownList>
+          <LastState Value="1" RealAddress="0000043F"/>
+          <VariableType>Byte</VariableType>
+          <Address>+3DF</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>993</ID>
+          <Description>"[+03E0] DisableDiscoveryNaming"</Description>
+          <DropDownList ReadOnly="1" DescriptionOnly="1" DisplayValueAsItem="1">0:false
+1:true
+</DropDownList>
+          <LastState Value="0" RealAddress="00000440"/>
+          <VariableType>Byte</VariableType>
+          <Address>+3E0</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>994</ID>
+          <Description>"[+03E1] DebugDrawPlayerInteract"</Description>
+          <DropDownList ReadOnly="1" DescriptionOnly="1" DisplayValueAsItem="1">0:false
+1:true
+</DropDownList>
+          <LastState Value="0" RealAddress="00000441"/>
+          <VariableType>Byte</VariableType>
+          <Address>+3E1</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>995</ID>
+          <Description>"[+03E2] ForceInteractionToSettings"</Description>
+          <DropDownList ReadOnly="1" DescriptionOnly="1" DisplayValueAsItem="1">0:false
+1:true
+</DropDownList>
+          <LastState Value="0" RealAddress="00000442"/>
+          <VariableType>Byte</VariableType>
+          <Address>+3E2</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>996</ID>
+          <Description>"[+03E3] Unknown/Reserved"</Description>
+          <LastState Value="0" RealAddress="00000443"/>
+          <VariableType>Byte</VariableType>
+          <Address>+3E3</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>997</ID>
+          <Description>"[+03E4] ForceInteractionIndex"</Description>
+          <LastState Value="0" RealAddress="00000444"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>+3E4</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1001</ID>
+          <Description>"[+03E8] InteractionsAlwaysGivestech"</Description>
+          <DropDownList ReadOnly="1" DescriptionOnly="1" DisplayValueAsItem="1">0:false
+1:true
+</DropDownList>
+          <LastState Value="0" RealAddress="00000448"/>
+          <VariableType>Byte</VariableType>
+          <Address>+3E8</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1002</ID>
+          <Description>"[+03E9] InfiniteInteractions"</Description>
+          <DropDownList ReadOnly="1" DescriptionOnly="1" DisplayValueAsItem="1">0:false
+1:true
+</DropDownList>
+          <LastState Value="0" RealAddress="00000449"/>
+          <VariableType>Byte</VariableType>
+          <Address>+3E9</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1003</ID>
+          <Description>"[+03EA] StopSwitchingToSecondaryInteractions"</Description>
+          <DropDownList ReadOnly="1" DescriptionOnly="1" DisplayValueAsItem="1">0:false
+1:true
+</DropDownList>
+          <LastState Value="0" RealAddress="0000044A"/>
+          <VariableType>Byte</VariableType>
+          <Address>+3EA</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1004</ID>
+          <Description>"[+03EB] reserved/unknown"</Description>
+          <LastState Value="0" RealAddress="0000044B"/>
+          <VariableType>Byte</VariableType>
+          <Address>+3EB</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1005</ID>
+          <Description>"[+03EC] (unused?) DebugLanguages"</Description>
+          <LastState Value="0" RealAddress="0000044C"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>+3EC</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1009</ID>
+          <Description>"[+03F0] AllowedLanguagesFile"</Description>
+          <LastState RealAddress="00000450"/>
+          <VariableType>String</VariableType>
+          <Length>32</Length>
+          <Unicode>0</Unicode>
+          <CodePage>0</CodePage>
+          <ZeroTerminate>1</ZeroTerminate>
+          <Address>+3F0</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1041</ID>
+          <Description>"[+0410] DoAlienLanguage"</Description>
+          <DropDownList ReadOnly="1" DescriptionOnly="1" DisplayValueAsItem="1">0:false
+1:true
+</DropDownList>
+          <LastState Value="1" RealAddress="00000470"/>
+          <VariableType>Byte</VariableType>
+          <Address>+410</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1042</ID>
+          <Description>"[+0411] Unknown/Reserved"</Description>
+          <LastState Value="00 00 00" RealAddress="00000471"/>
+          <ShowAsHex>1</ShowAsHex>
+          <VariableType>Array of byte</VariableType>
+          <ByteLength>3</ByteLength>
+          <Address>+411</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1045</ID>
+          <Description>"[+0414] (unused?) ForceInteractionRaceTo"</Description>
+          <LastState Value="0" RealAddress="00000474"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>+414</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1049</ID>
+          <Description>"[+0418] RealityMode"</Description>
+          <DropDownList ReadOnly="1" DescriptionOnly="1" DisplayValueAsItem="1">0:LoadPreset
+1:Generate
+</DropDownList>
+          <LastState Value="0" RealAddress="00000478"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>+418</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1053</ID>
+          <Description>"[+041C] DebugPersistentInteractions"</Description>
+          <DropDownList ReadOnly="1" DescriptionOnly="1" DisplayValueAsItem="1">0:false
+1:true
+</DropDownList>
+          <LastState Value="0" RealAddress="0000047C"/>
+          <VariableType>Byte</VariableType>
+          <Address>+41C</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1054</ID>
+          <Description>"[+041D] RealityPresetFile (wierd offset, not aligned)"</Description>
+          <LastState RealAddress="0000047D"/>
+          <Color>000000</Color>
+          <VariableType>String</VariableType>
+          <Length>128</Length>
+          <Unicode>0</Unicode>
+          <CodePage>0</CodePage>
+          <ZeroTerminate>1</ZeroTerminate>
+          <Address>+41D</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1182</ID>
+          <Description>"[+049D] Unknown (RealityGenerationIteration ?)"</Description>
+          <LastState Value="0" RealAddress="000004FD"/>
+          <VariableType>Byte</VariableType>
+          <Address>+49D</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1183</ID>
+          <Description>"[+049E] Unknown"</Description>
+          <LastState Value="0" RealAddress="000004FE"/>
+          <VariableType>Byte</VariableType>
+          <Address>+49E</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1184</ID>
+          <Description>"[+049F] Unknown"</Description>
+          <LastState Value="0" RealAddress="000004FF"/>
+          <VariableType>Byte</VariableType>
+          <Address>+49F</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1185</ID>
+          <Description>"[+04A0] NMSLocale"</Description>
+          <LastState RealAddress="00000500"/>
+          <VariableType>String</VariableType>
+          <Length>32</Length>
+          <Unicode>0</Unicode>
+          <CodePage>0</CodePage>
+          <ZeroTerminate>1</ZeroTerminate>
+          <Address>+4A0</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1217</ID>
+          <Description>"[+04C0] NMSUpdateVersion"</Description>
+          <LastState RealAddress="00000520"/>
+          <VariableType>String</VariableType>
+          <Length>32</Length>
+          <Unicode>0</Unicode>
+          <CodePage>0</CodePage>
+          <ZeroTerminate>1</ZeroTerminate>
+          <Address>+4C0</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1249</ID>
+          <Description>"[+04E0] DefaultSaveData"</Description>
+          <LastState RealAddress="00000540"/>
+          <VariableType>String</VariableType>
+          <Length>128</Length>
+          <Unicode>0</Unicode>
+          <CodePage>0</CodePage>
+          <ZeroTerminate>1</ZeroTerminate>
+          <Address>+4E0</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1377</ID>
+          <Description>"[+0560] FormatDownloadStorageAreaOnBoot"</Description>
+          <DropDownList ReadOnly="1" DescriptionOnly="1" DisplayValueAsItem="1">0:false
+1:true
+</DropDownList>
+          <LastState Value="0" RealAddress="000005C0"/>
+          <VariableType>Byte</VariableType>
+          <Address>+560</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1378</ID>
+          <Description>"[+0561] ForceBasicLoadScreen"</Description>
+          <DropDownList ReadOnly="1" DescriptionOnly="1" DisplayValueAsItem="1">0:false
+1:true
+</DropDownList>
+          <LastState Value="0" RealAddress="000005C1"/>
+          <VariableType>Byte</VariableType>
+          <Address>+561</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1379</ID>
+          <Description>"[+0562] Unknown"</Description>
+          <LastState Value="0" RealAddress="000005C2"/>
+          <VariableType>Byte</VariableType>
+          <Address>+562</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1380</ID>
+          <Description>"[+0563] Unknown"</Description>
+          <LastState Value="0" RealAddress="000005C3"/>
+          <VariableType>Byte</VariableType>
+          <Address>+563</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1381</ID>
+          <Description>"[+0564] BootLogoFadeRate"</Description>
+          <LastState Value="10000" RealAddress="000005C4"/>
+          <VariableType>Float</VariableType>
+          <Address>+564</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1385</ID>
+          <Description>"[+0568] BootMusic"</Description>
+          <DropDownList ReadOnly="1" DescriptionOnly="1" DisplayValueAsItem="1">0:false
+1:true
+</DropDownList>
+          <LastState Value="1" RealAddress="000005C8"/>
+          <VariableType>Byte</VariableType>
+          <Address>+568</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1386</ID>
+          <Description>"[+0569] LogMissingLocalisedText"</Description>
+          <DropDownList ReadOnly="1" DescriptionOnly="1" DisplayValueAsItem="1">0:false
+1:true
+</DropDownList>
+          <LastState Value="0" RealAddress="000005C9"/>
+          <VariableType>Byte</VariableType>
+          <Address>+569</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1387</ID>
+          <Description>"[+056A] FleetDirectorAutoMode"</Description>
+          <DropDownList ReadOnly="1" DescriptionOnly="1" DisplayValueAsItem="1">0:false
+1:true
+</DropDownList>
+          <LastState Value="1" RealAddress="000005CA"/>
+          <VariableType>Byte</VariableType>
+          <Address>+56A</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1388</ID>
+          <Description>"[+056B] Unknown"</Description>
+          <LastState Value="0" RealAddress="000005CB"/>
+          <VariableType>Byte</VariableType>
+          <Address>+56B</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1389</ID>
+          <Description>"[+056C] _3dTextDistance"</Description>
+          <LastState Value="200" RealAddress="000005CC"/>
+          <VariableType>Float</VariableType>
+          <Address>+56C</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1393</ID>
+          <Description>"[+0570] _3dTextMinScale"</Description>
+          <LastState Value="2" RealAddress="000005D0"/>
+          <VariableType>Float</VariableType>
+          <Address>+570</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1397</ID>
+          <Description>"[+0574] RecordSetting"</Description>
+          <DropDownList ReadOnly="1" DescriptionOnly="1" DisplayValueAsItem="1">0:None
+1:Record
+2:Playback
+</DropDownList>
+          <LastState Value="0" RealAddress="000005D4"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>+574</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1401</ID>
+          <Description>"[+0578] DebugBuildingSpawns"</Description>
+          <DropDownList ReadOnly="1" DescriptionOnly="1" DisplayValueAsItem="1">0:false
+1:true
+</DropDownList>
+          <LastState Value="0" RealAddress="000005D8"/>
+          <VariableType>Byte</VariableType>
+          <Address>+578</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1402</ID>
+          <Description>"[+0579] StressTestLongNameDisplay"</Description>
+          <DropDownList ReadOnly="1" DescriptionOnly="1" DisplayValueAsItem="1">0:false
+1:true
+</DropDownList>
+          <LastState Value="0" RealAddress="000005D9"/>
+          <VariableType>Byte</VariableType>
+          <Address>+579</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1403</ID>
+          <Description>"[+057A] Unknown"</Description>
+          <DropDownList ReadOnly="1" DescriptionOnly="1" DisplayValueAsItem="1">0:false
+1:true
+</DropDownList>
+          <LastState Value="1" RealAddress="000005DA"/>
+          <VariableType>Byte</VariableType>
+          <Address>+57A</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1404</ID>
+          <Description>"[+057B] ShowFramerate"</Description>
+          <DropDownList ReadOnly="1" DescriptionOnly="1" DisplayValueAsItem="1">0:false
+1:true
+</DropDownList>
+          <LastState Value="0" RealAddress="000005DB"/>
+          <VariableType>Byte</VariableType>
+          <Address>+57B</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1405</ID>
+          <Description>"[+057C] ShowPositionDebug"</Description>
+          <DropDownList ReadOnly="1" DescriptionOnly="1" DisplayValueAsItem="1">0:false
+1:true
+</DropDownList>
+          <LastState Value="0" RealAddress="000005DC"/>
+          <VariableType>Byte</VariableType>
+          <Address>+57C</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1406</ID>
+          <Description>"[+057D] ShowGPUMemory"</Description>
+          <DropDownList ReadOnly="1" DescriptionOnly="1" DisplayValueAsItem="1">0:false
+1:true
+</DropDownList>
+          <LastState Value="1" RealAddress="000005DD"/>
+          <VariableType>Byte</VariableType>
+          <Address>+57D</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1407</ID>
+          <Description>"[+057E] Unknown"</Description>
+          <LastState Value="0" RealAddress="000005DE"/>
+          <VariableType>Byte</VariableType>
+          <Address>+57E</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1408</ID>
+          <Description>"[+057F] ShowMempoolOverlay"</Description>
+          <DropDownList ReadOnly="1" DescriptionOnly="1" DisplayValueAsItem="1">0:false
+1:true
+</DropDownList>
+          <LastState Value="0" RealAddress="000005DF"/>
+          <VariableType>Byte</VariableType>
+          <Address>+57F</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1409</ID>
+          <Description>"[+0580] ShowUniverseAddressOnGalaxyMap"</Description>
+          <LastState RealAddress="000005E0"/>
+          <VariableType>String</VariableType>
+          <Length>256</Length>
+          <Unicode>0</Unicode>
+          <CodePage>0</CodePage>
+          <ZeroTerminate>1</ZeroTerminate>
+          <Address>+580</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1665</ID>
+          <Description>"[+0680] ShowGraphs"</Description>
+          <DropDownList ReadOnly="1" DescriptionOnly="1" DisplayValueAsItem="1">0:false
+1:true
+</DropDownList>
+          <LastState Value="0" RealAddress="000006E0"/>
+          <VariableType>Byte</VariableType>
+          <Address>+680</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1666</ID>
+          <Description>"[+0681] GraphCommandBuffer"</Description>
+          <DropDownList ReadOnly="1" DescriptionOnly="1" DisplayValueAsItem="1">0:false
+1:true
+</DropDownList>
+          <LastState Value="0" RealAddress="000006E1"/>
+          <VariableType>Byte</VariableType>
+          <Address>+681</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1667</ID>
+          <Description>"[+0682] GraphGeneration"</Description>
+          <DropDownList ReadOnly="1" DescriptionOnly="1" DisplayValueAsItem="1">0:false
+1:true
+</DropDownList>
+          <LastState Value="1" RealAddress="000006E2"/>
+          <VariableType>Byte</VariableType>
+          <Address>+682</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1668</ID>
+          <Description>"[+0683] GraphFPS"</Description>
+          <DropDownList ReadOnly="1" DescriptionOnly="1" DisplayValueAsItem="1">0:false
+1:true
+</DropDownList>
+          <LastState Value="1" RealAddress="000006E3"/>
+          <VariableType>Byte</VariableType>
+          <Address>+683</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1669</ID>
+          <Description>"[+0684] SmokeTestDumpStatsMode"</Description>
+          <DropDownList ReadOnly="1" DescriptionOnly="1" DisplayValueAsItem="1">0:false
+1:true
+</DropDownList>
+          <LastState Value="0" RealAddress="000006E4"/>
+          <VariableType>Byte</VariableType>
+          <Address>+684</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1670</ID>
+          <Description>"[+0685] Unknown"</Description>
+          <LastState Value="0" RealAddress="000006E5"/>
+          <VariableType>Byte</VariableType>
+          <Address>+685</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1671</ID>
+          <Description>"[+0686] Unknown"</Description>
+          <LastState Value="0" RealAddress="000006E6"/>
+          <VariableType>Byte</VariableType>
+          <Address>+686</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1672</ID>
+          <Description>"[+0687] Unknown"</Description>
+          <LastState Value="0" RealAddress="000006E7"/>
+          <VariableType>Byte</VariableType>
+          <Address>+687</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1673</ID>
+          <Description>"[+0688] SmokeTestCycleMode"</Description>
+          <DropDownList ReadOnly="1" DescriptionOnly="1" DisplayValueAsItem="1">0:None
+1:TourSolarSystem
+2:RegeneratePlanet
+</DropDownList>
+          <LastState Value="0" RealAddress="000006E8"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>+688</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1677</ID>
+          <Description>"[+068C] SmokeTestCameraFly"</Description>
+          <DropDownList ReadOnly="1" DescriptionOnly="1" DisplayValueAsItem="1">0:false
+1:true
+</DropDownList>
+          <LastState Value="0" RealAddress="000006EC"/>
+          <VariableType>Byte</VariableType>
+          <Address>+68C</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1678</ID>
+          <Description>"[+068D] Unknown"</Description>
+          <LastState Value="0" RealAddress="000006ED"/>
+          <VariableType>Byte</VariableType>
+          <Address>+68D</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>3408</ID>
+          <Description>"[+068E] Unknown"</Description>
+          <LastState Value="0" RealAddress="000006EE"/>
+          <VariableType>Byte</VariableType>
+          <Address>+068E</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>3409</ID>
+          <Description>"[+068F] Unknown"</Description>
+          <LastState Value="0" RealAddress="000006EF"/>
+          <VariableType>Byte</VariableType>
+          <Address>+068F</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>3410</ID>
+          <Description>"[+0690] SmokeTestConfigCaptureCycles"</Description>
+          <LastState Value="3" RealAddress="000006F0"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>+0690</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1685</ID>
+          <Description>"[+0694] SmokeTestConfigCaptureDurationInSeconds"</Description>
+          <LastState Value="20" RealAddress="000006F4"/>
+          <VariableType>Float</VariableType>
+          <Address>+694</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1689</ID>
+          <Description>"[+0698] SmokeTestConfigCaptureFolderNameNumberOffset"</Description>
+          <LastState Value="5" RealAddress="000006F8"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>+698</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1693</ID>
+          <Description>"[+069C] SmokeTestConfigRandomizePlanetSeed"</Description>
+          <DropDownList ReadOnly="1" DescriptionOnly="1" DisplayValueAsItem="1">0:false
+1:true
+</DropDownList>
+          <LastState Value="0" RealAddress="000006FC"/>
+          <VariableType>Byte</VariableType>
+          <Address>+69C</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1694</ID>
+          <Description>"[+069D] CreatureChatter"</Description>
+          <DropDownList ReadOnly="1" DescriptionOnly="1" DisplayValueAsItem="1">0:false
+1:true
+</DropDownList>
+          <LastState Value="0" RealAddress="000006FD"/>
+          <VariableType>Byte</VariableType>
+          <Address>+69D</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1695</ID>
+          <Description>"[+069E] CreatureErrors"</Description>
+          <DropDownList ReadOnly="1" DescriptionOnly="1" DisplayValueAsItem="1">0:false
+1:true
+</DropDownList>
+          <LastState Value="0" RealAddress="000006FE"/>
+          <VariableType>Byte</VariableType>
+          <Address>+69E</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1696</ID>
+          <Description>"[+069F] CreatureDrawVocals"</Description>
+          <DropDownList ReadOnly="1" DescriptionOnly="1" DisplayValueAsItem="1">0:false
+1:true
+</DropDownList>
+          <LastState Value="0" RealAddress="000006FF"/>
+          <VariableType>Byte</VariableType>
+          <Address>+69F</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1697</ID>
+          <Description>"[+06A0] DrawCreaturesInRoutines"</Description>
+          <DropDownList ReadOnly="1" DescriptionOnly="1" DisplayValueAsItem="1">0:false
+1:true
+</DropDownList>
+          <LastState Value="0" RealAddress="00000700"/>
+          <VariableType>Byte</VariableType>
+          <Address>+6A0</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1698</ID>
+          <Description>"[+06A1] CompressTextures"</Description>
+          <DropDownList ReadOnly="1" DescriptionOnly="1" DisplayValueAsItem="1">0:false
+1:true
+</DropDownList>
+          <LastState Value="1" RealAddress="00000701"/>
+          <VariableType>Byte</VariableType>
+          <Address>+6A1</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1699</ID>
+          <Description>"[+06A2] DebugIBL"</Description>
+          <DropDownList ReadOnly="1" DescriptionOnly="1" DisplayValueAsItem="1">0:false
+1:true
+</DropDownList>
+          <LastState Value="0" RealAddress="00000702"/>
+          <VariableType>Byte</VariableType>
+          <Address>+6A2</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1700</ID>
+          <Description>"[+06A3] DisableShadowSwitching"</Description>
+          <DropDownList ReadOnly="1" DescriptionOnly="1" DisplayValueAsItem="1">0:false
+1:true
+</DropDownList>
+          <LastState Value="0" RealAddress="00000703"/>
+          <VariableType>Byte</VariableType>
+          <Address>+6A3</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1701</ID>
+          <Description>"[+06A4] PipelineFile"</Description>
+          <LastState RealAddress="00000704"/>
+          <VariableType>String</VariableType>
+          <Length>128</Length>
+          <Unicode>0</Unicode>
+          <CodePage>0</CodePage>
+          <ZeroTerminate>1</ZeroTerminate>
+          <Address>+6A4</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1829</ID>
+          <Description>"[+0724] PipelineFilePS4"</Description>
+          <LastState RealAddress="00000784"/>
+          <VariableType>String</VariableType>
+          <Length>128</Length>
+          <Unicode>0</Unicode>
+          <CodePage>0</CodePage>
+          <ZeroTerminate>1</ZeroTerminate>
+          <Address>+724</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1957</ID>
+          <Description>"[+07A4] RenderLowFramerate"</Description>
+          <DropDownList ReadOnly="1" DescriptionOnly="1" DisplayValueAsItem="1">0:false
+1:true
+</DropDownList>
+          <LastState Value="1" RealAddress="00000804"/>
+          <VariableType>Byte</VariableType>
+          <Address>+7A4</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1958</ID>
+          <Description>"[+07A5] SimulateNoNetworkConnection"</Description>
+          <DropDownList ReadOnly="1" DescriptionOnly="1" DisplayValueAsItem="1">0:false
+1:true
+</DropDownList>
+          <LastState Value="1" RealAddress="00000805"/>
+          <VariableType>Byte</VariableType>
+          <Address>+7A5</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1959</ID>
+          <Description>"[+07A6] Unknown"</Description>
+          <LastState Value="0" RealAddress="00000806"/>
+          <VariableType>Byte</VariableType>
+          <Address>+7A6</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1960</ID>
+          <Description>"[+07A7] Unknown"</Description>
+          <LastState Value="0" RealAddress="00000807"/>
+          <VariableType>Byte</VariableType>
+          <Address>+7A7</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1961</ID>
+          <Description>"[+07A8] ProxyType"</Description>
+          <DropDownList ReadOnly="1" DescriptionOnly="1" DisplayValueAsItem="1">0:None
+1:ManualURI
+2:InetProxy
+</DropDownList>
+          <LastState Value="2" RealAddress="00000808"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>+7A8</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1965</ID>
+          <Description>"[+07AC] ProxyURI"</Description>
+          <LastState RealAddress="0000080C"/>
+          <VariableType>String</VariableType>
+          <Length>128</Length>
+          <Unicode>0</Unicode>
+          <CodePage>0</CodePage>
+          <ZeroTerminate>1</ZeroTerminate>
+          <Address>+7AC</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>2093</ID>
+          <Description>"[+082C] ServerEnv"</Description>
+          <DropDownList ReadOnly="1" DescriptionOnly="1" DisplayValueAsItem="1">0:default
+1:dev
+2:prodqa
+3:prod
+4:custom
+5:pentest
+</DropDownList>
+          <LastState Value="0" RealAddress="0000088C"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>+82C</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>2097</ID>
+          <Description>"[+0830] AuthBaseUrl"</Description>
+          <LastState RealAddress="00000890"/>
+          <VariableType>String</VariableType>
+          <Length>128</Length>
+          <Unicode>0</Unicode>
+          <CodePage>0</CodePage>
+          <ZeroTerminate>1</ZeroTerminate>
+          <Address>+830</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>2225</ID>
+          <Description>"[+08B0] CertificateSecurityBypass"</Description>
+          <DropDownList ReadOnly="1" DescriptionOnly="1" DisplayValueAsItem="1">0:false
+1:true
+</DropDownList>
+          <LastState Value="0" RealAddress="00000910"/>
+          <VariableType>Byte</VariableType>
+          <Address>+8B0</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>2226</ID>
+          <Description>"[+08B1] Unknown/Unused"</Description>
+          <LastState Value="0" RealAddress="00000911"/>
+          <VariableType>Byte</VariableType>
+          <Address>+8B1</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>2227</ID>
+          <Description>"[+08B2] Unknown/Unused"</Description>
+          <LastState Value="0" RealAddress="00000912"/>
+          <VariableType>Byte</VariableType>
+          <Address>+8B2</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>2228</ID>
+          <Description>"[+08B3] Unknown/Unused"</Description>
+          <LastState Value="0" RealAddress="00000913"/>
+          <VariableType>Byte</VariableType>
+          <Address>+8B3</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>2229</ID>
+          <Description>"[+08B4] OverrideUsernameForDev"</Description>
+          <LastState RealAddress="00000914"/>
+          <VariableType>String</VariableType>
+          <Length>32</Length>
+          <Unicode>0</Unicode>
+          <CodePage>0</CodePage>
+          <ZeroTerminate>1</ZeroTerminate>
+          <Address>+8B4</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>2261</ID>
+          <Description>"[+08D4] DiscoveryAutoSyncIntervalSeconds"</Description>
+          <LastState Value="0" RealAddress="00000934"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>+8D4</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>2265</ID>
+          <Description>"[+08D8] DummyString"</Description>
+          <LastState RealAddress="00000938"/>
+          <VariableType>String</VariableType>
+          <Length>32</Length>
+          <Unicode>0</Unicode>
+          <CodePage>0</CodePage>
+          <ZeroTerminate>1</ZeroTerminate>
+          <Address>+8D8</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>2297</ID>
+          <Description>"[+08F8] DummyInt"</Description>
+          <LastState Value="0" RealAddress="00000958"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>+8F8</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>2301</ID>
+          <Description>"[+08FC] EnableSynergy"</Description>
+          <DropDownList ReadOnly="1" DescriptionOnly="1" DisplayValueAsItem="1">0:false
+1:true
+</DropDownList>
+          <LastState Value="1" RealAddress="0000095C"/>
+          <VariableType>Byte</VariableType>
+          <Address>+8FC</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>2302</ID>
+          <Description>"[+08FD] Unknown/Unused"</Description>
+          <LastState Value="0" RealAddress="0000095D"/>
+          <VariableType>Byte</VariableType>
+          <Address>+8FD</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>2303</ID>
+          <Description>"[+08FE] Unknown/Unused"</Description>
+          <LastState Value="0" RealAddress="0000095E"/>
+          <VariableType>Byte</VariableType>
+          <Address>+8FE</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>2304</ID>
+          <Description>"[+08FF] Unknown/Unused"</Description>
+          <LastState Value="0" RealAddress="0000095F"/>
+          <VariableType>Byte</VariableType>
+          <Address>+8FF</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>2305</ID>
+          <Description>"[+0900] SynergyServer"</Description>
+          <LastState RealAddress="00000960"/>
+          <VariableType>String</VariableType>
+          <Length>32</Length>
+          <Unicode>0</Unicode>
+          <CodePage>0</CodePage>
+          <ZeroTerminate>1</ZeroTerminate>
+          <Address>+900</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>2337</ID>
+          <Description>"[+0920] SynergyPort"</Description>
+          <LastState Value="24800" RealAddress="00000980"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>+920</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>2341</ID>
+          <Description>"[+0924] Unknown (seems to be used for something, probably synergy related)"</Description>
+          <LastState Value="1" RealAddress="00000984"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>+924</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>2345</ID>
+          <Description>"[+0928] MaxNumDebugMessages"</Description>
+          <LastState Value="100" RealAddress="00000988"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>+928</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>2349</ID>
+          <Description>"[+092C] PreloadToolbox"</Description>
+          <DropDownList ReadOnly="1" DescriptionOnly="1" DisplayValueAsItem="1">0:false
+1:true
+</DropDownList>
+          <LastState Value="0" RealAddress="0000098C"/>
+          <VariableType>Byte</VariableType>
+          <Address>+92C</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>2350</ID>
+          <Description>"[+092D] Unknown/Unused"</Description>
+          <LastState Value="0" RealAddress="0000098D"/>
+          <VariableType>Byte</VariableType>
+          <Address>+92D</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>2351</ID>
+          <Description>"[+092E] Unknown/Unused"</Description>
+          <LastState Value="0" RealAddress="0000098E"/>
+          <VariableType>Byte</VariableType>
+          <Address>+92E</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>2352</ID>
+          <Description>"[+092F] Unknown/Unused"</Description>
+          <LastState Value="0" RealAddress="0000098F"/>
+          <VariableType>Byte</VariableType>
+          <Address>+92F</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>2353</ID>
+          <Description>"[+0930] DebugTextureSize"</Description>
+          <LastState Value="1080" RealAddress="00000990"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>+930</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>2357</ID>
+          <Description>"[+0934] UseProcTextureDebugger"</Description>
+          <DropDownList ReadOnly="1" DescriptionOnly="1" DisplayValueAsItem="1">0:false
+1:true
+</DropDownList>
+          <LastState Value="0" RealAddress="00000994"/>
+          <VariableType>Byte</VariableType>
+          <Address>+934</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>2358</ID>
+          <Description>"[+0935] Unknown/Unused"</Description>
+          <LastState Value="0" RealAddress="00000995"/>
+          <VariableType>Byte</VariableType>
+          <Address>+935</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>2359</ID>
+          <Description>"[+0936] Unknown/Unused"</Description>
+          <LastState Value="0" RealAddress="00000996"/>
+          <VariableType>Byte</VariableType>
+          <Address>+936</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>2360</ID>
+          <Description>"[+0937] Unknown/Unused"</Description>
+          <LastState Value="0" RealAddress="00000997"/>
+          <VariableType>Byte</VariableType>
+          <Address>+937</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>2361</ID>
+          <Description>"[+0938] ProceduralModelsShown"</Description>
+          <LastState Value="30" RealAddress="00000998"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>+938</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>2365</ID>
+          <Description>"[+093C] ProceduralModelBatchSize"</Description>
+          <LastState Value="30" RealAddress="0000099C"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>+93C</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>2369</ID>
+          <Description>"[+0940] DebugFont"</Description>
+          <LastState RealAddress="000009A0"/>
+          <VariableType>String</VariableType>
+          <Length>128</Length>
+          <Unicode>0</Unicode>
+          <CodePage>0</CodePage>
+          <ZeroTerminate>1</ZeroTerminate>
+          <Address>+940</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>2497</ID>
+          <Description>"[+09C0] DebugFontTexture"</Description>
+          <LastState RealAddress="00000A20"/>
+          <VariableType>String</VariableType>
+          <Length>128</Length>
+          <Unicode>0</Unicode>
+          <CodePage>0</CodePage>
+          <ZeroTerminate>1</ZeroTerminate>
+          <Address>+9C0</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>2625</ID>
+          <Description>"[+0A40] CursorTexture"</Description>
+          <LastState RealAddress="00000AA0"/>
+          <VariableType>String</VariableType>
+          <Length>128</Length>
+          <Unicode>0</Unicode>
+          <CodePage>0</CodePage>
+          <ZeroTerminate>1</ZeroTerminate>
+          <Address>+A40</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>2753</ID>
+          <Description>"[+0AC0] PauseTexture"</Description>
+          <LastState RealAddress="00000B20"/>
+          <VariableType>String</VariableType>
+          <Length>128</Length>
+          <Unicode>0</Unicode>
+          <CodePage>0</CodePage>
+          <ZeroTerminate>1</ZeroTerminate>
+          <Address>+AC0</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>3009</ID>
+          <Description>"[+0BC0] StepTexture"</Description>
+          <LastState RealAddress="00000C20"/>
+          <VariableType>String</VariableType>
+          <Length>128</Length>
+          <Unicode>0</Unicode>
+          <CodePage>0</CodePage>
+          <ZeroTerminate>1</ZeroTerminate>
+          <Address>+BC0</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>3137</ID>
+          <Description>"[+0C40] RenderToTexture"</Description>
+          <LastState RealAddress="00000CA0"/>
+          <VariableType>String</VariableType>
+          <Length>128</Length>
+          <Unicode>0</Unicode>
+          <CodePage>0</CodePage>
+          <ZeroTerminate>1</ZeroTerminate>
+          <Address>+C40</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>3265</ID>
+          <Description>"[+0CC0] HmdEnable"</Description>
+          <DropDownList ReadOnly="1" DescriptionOnly="1" DisplayValueAsItem="1">0:false
+1:true
+</DropDownList>
+          <LastState Value="0" RealAddress="00000D20"/>
+          <VariableType>Byte</VariableType>
+          <Address>+CC0</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>3266</ID>
+          <Description>"[+0CC1] HmdOutput"</Description>
+          <DropDownList ReadOnly="1" DescriptionOnly="1" DisplayValueAsItem="1">0:false
+1:true
+</DropDownList>
+          <LastState Value="0" RealAddress="00000D21"/>
+          <VariableType>Byte</VariableType>
+          <Address>+CC1</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>3267</ID>
+          <Description>"[+0CC2] HmdTracking"</Description>
+          <DropDownList ReadOnly="1" DescriptionOnly="1" DisplayValueAsItem="1">0:false
+1:true
+</DropDownList>
+          <LastState Value="0" RealAddress="00000D22"/>
+          <VariableType>Byte</VariableType>
+          <Address>+CC2</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>3268</ID>
+          <Description>"[+0CC3] HmdStereoRender"</Description>
+          <DropDownList ReadOnly="1" DescriptionOnly="1" DisplayValueAsItem="1">0:false
+1:true
+</DropDownList>
+          <LastState Value="0" RealAddress="00000D23"/>
+          <VariableType>Byte</VariableType>
+          <Address>+CC3</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>3269</ID>
+          <Description>"[+0CC4] HmdDistortionPassthru"</Description>
+          <DropDownList ReadOnly="1" DescriptionOnly="1" DisplayValueAsItem="1">0:false
+1:true
+</DropDownList>
+          <LastState Value="0" RealAddress="00000D24"/>
+          <VariableType>Byte</VariableType>
+          <Address>+CC4</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>3270</ID>
+          <Description>"[+0CC5] Unknown/Unused"</Description>
+          <LastState Value="0" RealAddress="00000D25"/>
+          <VariableType>Byte</VariableType>
+          <Address>+CC5</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>3271</ID>
+          <Description>"[+0CC6] Unknown/Unused"</Description>
+          <LastState Value="0" RealAddress="00000D26"/>
+          <VariableType>Byte</VariableType>
+          <Address>+CC6</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>3272</ID>
+          <Description>"[+0CC7] Unknown/Unused"</Description>
+          <LastState Value="0" RealAddress="00000D27"/>
+          <VariableType>Byte</VariableType>
+          <Address>+CC7</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>3273</ID>
+          <Description>"[+0CC8] HmdMonitor"</Description>
+          <LastState Value="1" RealAddress="00000D28"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>+CC8</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>3277</ID>
+          <Description>"[+0CCC] HmdEyeBufferWidth"</Description>
+          <LastState Value="0" RealAddress="00000D2C"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>+CCC</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>3281</ID>
+          <Description>"[+0CD0] HmdEyeBufferHeight"</Description>
+          <LastState Value="0" RealAddress="00000D30"/>
+          <VariableType>4 Bytes</VariableType>
+          <Address>+CD0</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>3285</ID>
+          <Description>"[+0CD4] HmdEyeScalePos"</Description>
+          <LastState Value="1.399999976" RealAddress="00000D34"/>
+          <Color>008000</Color>
+          <VariableType>Float</VariableType>
+          <Address>+CD4</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>3289</ID>
+          <Description>"[+0CD8] HmdScalePos"</Description>
+          <LastState Value="1.399999976" RealAddress="00000D38"/>
+          <Color>008000</Color>
+          <VariableType>Float</VariableType>
+          <Address>+CD8</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>3293</ID>
+          <Description>"[+0CDC] HmdImmersionFactor"</Description>
+          <LastState Value="9000.099609" RealAddress="00000D3C"/>
+          <Color>008000</Color>
+          <VariableType>Float</VariableType>
+          <Address>+CDC</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>3297</ID>
+          <Description>"[+0CE0] ForceExtremeWeather"</Description>
+          <DropDownList ReadOnly="1" DescriptionOnly="1" DisplayValueAsItem="1">0:false
+1:true
+</DropDownList>
+          <LastState Value="0" RealAddress="00000D40"/>
+          <Color>008000</Color>
+          <VariableType>Byte</VariableType>
+          <Address>+CE0</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>3298</ID>
+          <Description>"[+0CE1] ForceExtremeSentinels"</Description>
+          <DropDownList ReadOnly="1" DescriptionOnly="1" DisplayValueAsItem="1">0:false
+1:true
+</DropDownList>
+          <LastState Value="0" RealAddress="00000D41"/>
+          <Color>008000</Color>
+          <VariableType>Byte</VariableType>
+          <Address>+CE1</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>3299</ID>
+          <Description>"[+0CE2] ForceStarType"</Description>
+          <DropDownList ReadOnly="1" DescriptionOnly="1" DisplayValueAsItem="1">0:false
+1:true
+</DropDownList>
+          <LastState Value="0" RealAddress="00000D42"/>
+          <Color>008000</Color>
+          <VariableType>Byte</VariableType>
+          <Address>+CE2</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>3301</ID>
+          <Description>"[+0CE4] ForceStarTypeTo"</Description>
+          <LastState Value="3" RealAddress="00000D44"/>
+          <Color>008000</Color>
+          <VariableType>4 Bytes</VariableType>
+          <Address>+CE4</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>3305</ID>
+          <Description>"[+0CE8] ForceBiome"</Description>
+          <DropDownList ReadOnly="1" DescriptionOnly="1" DisplayValueAsItem="1">0:false
+1:true
+</DropDownList>
+          <LastState Value="0" RealAddress="00000D48"/>
+          <Color>008000</Color>
+          <VariableType>Byte</VariableType>
+          <Address>+CE8</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>3309</ID>
+          <Description>"[+0CEC] ForceBiomeTo"</Description>
+          <LastState Value="5" RealAddress="00000D4C"/>
+          <Color>008000</Color>
+          <VariableType>4 Bytes</VariableType>
+          <Address>+CEC</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>3313</ID>
+          <Description>"[+0CF0] BadValue"</Description>
+          <LastState Value="FFFFFFFF" RealAddress="00000D50"/>
+          <ShowAsHex>1</ShowAsHex>
+          <Color>008000</Color>
+          <VariableType>4 Bytes</VariableType>
+          <Address>+CF0</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>3317</ID>
+          <Description>"[+0CF4] ForceBuildingRace"</Description>
+          <DropDownList ReadOnly="1" DescriptionOnly="1" DisplayValueAsItem="1">0:false
+1:true
+</DropDownList>
+          <LastState Value="0" RealAddress="00000D54"/>
+          <Color>008000</Color>
+          <VariableType>Byte</VariableType>
+          <Address>+CF4</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>3321</ID>
+          <Description>"[+0CF8] ForceBuildingRaceTo"</Description>
+          <LastState Value="0" RealAddress="00000D58"/>
+          <Color>008000</Color>
+          <VariableType>4 Bytes</VariableType>
+          <Address>+CF8</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>3325</ID>
+          <Description>"[+0CFC] ForceLifeLevel"</Description>
+          <DropDownList ReadOnly="1" DescriptionOnly="1" DisplayValueAsItem="1">0:false
+1:true
+</DropDownList>
+          <LastState Value="0" RealAddress="00000D5C"/>
+          <Color>008000</Color>
+          <VariableType>Byte</VariableType>
+          <Address>+CFC</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>3329</ID>
+          <Description>"[+0D00] ForceLifeLevelTo"</Description>
+          <LastState Value="3" RealAddress="00000D60"/>
+          <Color>008000</Color>
+          <VariableType>4 Bytes</VariableType>
+          <Address>+D00</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>3333</ID>
+          <Description>"[+0D04] ForceAnomaly (deprecated?)"</Description>
+          <DropDownList ReadOnly="1" DescriptionOnly="1" DisplayValueAsItem="1">0:false
+1:true
+</DropDownList>
+          <LastState Value="0" RealAddress="00000D64"/>
+          <Color>008000</Color>
+          <VariableType>Byte</VariableType>
+          <Address>+D04</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>3337</ID>
+          <Description>"[+0D08] ForceAnomalyTo (deprecated?)"</Description>
+          <LastState Value="3" RealAddress="00000D68"/>
+          <Color>008000</Color>
+          <VariableType>4 Bytes</VariableType>
+          <Address>+D08</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>3341</ID>
+          <Description>"[+0D0C] ForceAnomaly (must change scenes before this takes effect?) (5:SmokeTestSpaceWalk only works if the player has already had an atlas encounter)"</Description>
+          <DropDownList ReadOnly="1" DescriptionOnly="1" DisplayValueAsItem="1">0:disabled
+1:AtlasType1
+2:AtlasType2
+3:Blackhole
+4:Anomaly
+5:SpaceWalk
+</DropDownList>
+          <LastState Value="0" RealAddress="00000D6C"/>
+          <Color>008000</Color>
+          <VariableType>4 Bytes</VariableType>
+          <Address>+D0C</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>3411</ID>
+          <Description>"[+0D10] UnknownBool"</Description>
+          <DropDownList ReadOnly="1" DescriptionOnly="1" DisplayValueAsItem="1">0:false
+1:true
+</DropDownList>
+          <LastState Value="0" RealAddress="00000D70"/>
+          <Color>008000</Color>
+          <VariableType>Byte</VariableType>
+          <Address>+0D10</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>3412</ID>
+          <Description>"[+0D11] DisableLimits"</Description>
+          <DropDownList ReadOnly="1" DescriptionOnly="1" DisplayValueAsItem="1">0:false
+1:true
+</DropDownList>
+          <LastState Value="0" RealAddress="00000D71"/>
+          <Color>008000</Color>
+          <VariableType>Byte</VariableType>
+          <Address>+0D11</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>3342</ID>
+          <Description>"[+0D12] LimitPerRegionInstances"</Description>
+          <DropDownList ReadOnly="1" DescriptionOnly="1" DisplayValueAsItem="1">0:false
+1:true
+</DropDownList>
+          <LastState Value="1" RealAddress="00000D72"/>
+          <Color>008000</Color>
+          <VariableType>Byte</VariableType>
+          <Address>+D12</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>3343</ID>
+          <Description>"[+0D13] LimitPerRegionBodies"</Description>
+          <DropDownList ReadOnly="1" DescriptionOnly="1" DisplayValueAsItem="1">0:false
+1:true
+</DropDownList>
+          <LastState Value="1" RealAddress="00000D73"/>
+          <Color>008000</Color>
+          <VariableType>Byte</VariableType>
+          <Address>+D13</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>3344</ID>
+          <Description>"[+0D14] LimitGlobalInstances"</Description>
+          <DropDownList ReadOnly="1" DescriptionOnly="1" DisplayValueAsItem="1">0:false
+1:true
+</DropDownList>
+          <LastState Value="1" RealAddress="00000D74"/>
+          <Color>008000</Color>
+          <VariableType>Byte</VariableType>
+          <Address>+D14</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>3345</ID>
+          <Description>"[+0D15] LimitGlobalBodies"</Description>
+          <DropDownList ReadOnly="1" DescriptionOnly="1" DisplayValueAsItem="1">0:false
+1:true
+</DropDownList>
+          <LastState Value="0" RealAddress="00000D75"/>
+          <Color>008000</Color>
+          <VariableType>Byte</VariableType>
+          <Address>+D15</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>3346</ID>
+          <Description>"[+0D16] reserved"</Description>
+          <LastState Value="0" RealAddress="00000D76"/>
+          <Color>008000</Color>
+          <VariableType>Byte</VariableType>
+          <Address>+D16</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>3347</ID>
+          <Description>"[+0D17] reserved"</Description>
+          <LastState Value="0" RealAddress="00000D77"/>
+          <Color>008000</Color>
+          <VariableType>Byte</VariableType>
+          <Address>+D17</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>3353</ID>
+          <Description>"[+0D18] GenerateFarLodBuildingDist"</Description>
+          <LastState Value="1000" RealAddress="00000D78"/>
+          <Color>008000</Color>
+          <VariableType>4 Bytes</VariableType>
+          <Address>+D18</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>3357</ID>
+          <Description>"[+0D1C] DeferRegionBodies"</Description>
+          <DropDownList ReadOnly="1" DescriptionOnly="1" DisplayValueAsItem="1">0:false
+1:true
+</DropDownList>
+          <LastState Value="1" RealAddress="00000D7C"/>
+          <Color>008000</Color>
+          <VariableType>Byte</VariableType>
+          <Address>+D1C</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>3413</ID>
+          <Description>"[+0D1D] reserved"</Description>
+          <LastState Value="0" RealAddress="00000D7D"/>
+          <Color>008000</Color>
+          <VariableType>Byte</VariableType>
+          <Address>+0D1D</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>3414</ID>
+          <Description>"[+0D1E] reserved"</Description>
+          <LastState Value="0" RealAddress="00000D7E"/>
+          <Color>008000</Color>
+          <VariableType>Byte</VariableType>
+          <Address>+0D1E</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>3415</ID>
+          <Description>"[+0D1F] reserved"</Description>
+          <LastState Value="0" RealAddress="00000D7F"/>
+          <Color>008000</Color>
+          <VariableType>Byte</VariableType>
+          <Address>+0D1F</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>3361</ID>
+          <Description>"[+0D20] GenerateCostDist"</Description>
+          <LastState Value="0.5" RealAddress="00000D80"/>
+          <Color>008000</Color>
+          <VariableType>Float</VariableType>
+          <Address>+D20</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>3365</ID>
+          <Description>"[+0D24] GenerateCostAngle"</Description>
+          <LastState Value="-0.5" RealAddress="00000D84"/>
+          <Color>008000</Color>
+          <VariableType>Float</VariableType>
+          <Address>+D24</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>3369</ID>
+          <Description>"[+0D28] GenerateCostLOD"</Description>
+          <LastState Value="-0.5" RealAddress="00000D88"/>
+          <Color>008000</Color>
+          <VariableType>Float</VariableType>
+          <Address>+D28</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>3373</ID>
+          <Description>"[+0D2C] GenerateCostWait"</Description>
+          <LastState Value="-0.1000000015" RealAddress="00000D8C"/>
+          <Color>008000</Color>
+          <VariableType>Float</VariableType>
+          <Address>+D2C</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>3377</ID>
+          <Description>"[+0D30] DChecksEnabled"</Description>
+          <DropDownList ReadOnly="1" DescriptionOnly="1" DisplayValueAsItem="1">0:false
+1:true
+</DropDownList>
+          <LastState Value="0" RealAddress="00000D90"/>
+          <Color>008000</Color>
+          <VariableType>Byte</VariableType>
+          <Address>+D30</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>3378</ID>
+          <Description>"[+0D31] DChecksOutputJson"</Description>
+          <DropDownList ReadOnly="1" DescriptionOnly="1" DisplayValueAsItem="1">0:false
+1:true
+</DropDownList>
+          <LastState Value="0" RealAddress="00000D91"/>
+          <Color>008000</Color>
+          <VariableType>Byte</VariableType>
+          <Address>+D31</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>3379</ID>
+          <Description>"[+0D32] DChecksOuptutBinary"</Description>
+          <DropDownList ReadOnly="1" DescriptionOnly="1" DisplayValueAsItem="1">0:false
+1:true
+</DropDownList>
+          <LastState Value="0" RealAddress="00000D92"/>
+          <Color>008000</Color>
+          <VariableType>Byte</VariableType>
+          <Address>+D32</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>3380</ID>
+          <Description>"[+0D33] DChecksOutputFileLine"</Description>
+          <DropDownList ReadOnly="1" DescriptionOnly="1" DisplayValueAsItem="1">0:false
+1:true
+</DropDownList>
+          <LastState Value="0" RealAddress="00000D93"/>
+          <Color>008000</Color>
+          <VariableType>Byte</VariableType>
+          <Address>+D33</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>3381</ID>
+          <Description>"[+0D34] FrameFlipRateDefault"</Description>
+          <LastState Value="1" RealAddress="00000D94"/>
+          <Color>008000</Color>
+          <VariableType>4 Bytes</VariableType>
+          <Address>+D34</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>3385</ID>
+          <Description>"[+0D38] FrameFlipRateLoad"</Description>
+          <LastState Value="1" RealAddress="00000D98"/>
+          <Color>008000</Color>
+          <VariableType>4 Bytes</VariableType>
+          <Address>+D38</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>3389</ID>
+          <Description>"[+0D3C] FrameFlipRateGame"</Description>
+          <LastState Value="1" RealAddress="00000D9C"/>
+          <Color>008000</Color>
+          <VariableType>4 Bytes</VariableType>
+          <Address>+D3C</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>3393</ID>
+          <Description>"[+0D40] MaxFrameRate"</Description>
+          <LastState Value="150" RealAddress="00000DA0"/>
+          <Color>008000</Color>
+          <VariableType>Float</VariableType>
+          <Address>+D40</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>3397</ID>
+          <Description>"[+0D44] DisableBaseBuilding"</Description>
+          <DropDownList ReadOnly="1" DescriptionOnly="1" DisplayValueAsItem="1">0:false
+1:true
+</DropDownList>
+          <LastState Value="0" RealAddress="00000DA4"/>
+          <Color>008000</Color>
+          <VariableType>Byte</VariableType>
+          <Address>+D44</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>3398</ID>
+          <Description>"[+0D45] DisableBaseBuildingLimits"</Description>
+          <DropDownList ReadOnly="1" DescriptionOnly="1" DisplayValueAsItem="1">0:false
+1:true
+</DropDownList>
+          <LastState Value="0" RealAddress="00000DA5"/>
+          <Color>008000</Color>
+          <VariableType>Byte</VariableType>
+          <Address>+D45</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>3399</ID>
+          <Description>"[+0D46] reserved"</Description>
+          <LastState Value="0" RealAddress="00000DA6"/>
+          <Color>008000</Color>
+          <VariableType>Byte</VariableType>
+          <Address>+D46</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>3400</ID>
+          <Description>"[+0D47] reserved"</Description>
+          <LastState Value="0" RealAddress="00000DA7"/>
+          <Color>008000</Color>
+          <VariableType>Byte</VariableType>
+          <Address>+D47</Address>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>3401</ID>
+          <Description>"[+0D48] Unknown"</Description>
+          <LastState Value="40" RealAddress="00000DA8"/>
+          <Color>008000</Color>
+          <VariableType>Float</VariableType>
+          <Address>+D48</Address>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+  </CheatEntries>
+  <UserdefinedSymbols/>
+  <Comments>Info about this table:
+</Comments>
+  <LuaScript>-- gcDebugOptions-Signature.lua
+-- Author: Gaticus Hax
+-- License: Public Domain
+
+require("Scripts.HaxablesMonitor")
+
+local mbinFile      = "GCDEBUGOPTIONS.GLOBAL.MBIN"
+local dataSignature = "53 43 45 4E 45 53 2F 44 45 4D 4F 53 2F 55 53 45 52 45 58 50 45 52 49 45 4E 43 45 2F 4D 41 49 4E 53 45 54 54 49 4E 47 53 2E 4D 58 4D 4C 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 53 43 45 4E 45 53 2F 44 45 4D 4F 53 2F 53 50 52 49 4E 47 45 56 45 4E 54 32 30 31 36"
+local dataOffset    = 0x0238
+
+defineMBIN(mbinFile, dataSignature, dataOffset)
+</LuaScript>
+  <DisassemblerComments>
+    <DisassemblerComment>
+      <Address>"NMS.exe"+8A1FE0</Address>
+      <Comment>function(rcx, rdx)
+</Comment>
+    </DisassemblerComment>
+    <DisassemblerComment>
+      <Address>"NMS.exe"+F57920</Address>
+      <Comment>function(rsp, rbp, r12, r13, r14, r15)
+</Comment>
+    </DisassemblerComment>
+    <DisassemblerComment>
+      <Address>"NMS.exe"+F591ED</Address>
+      <Comment>xmm15 /= [gcSpaceshipGlobals+0550] (0.5 /= 2.0)
+</Comment>
+    </DisassemblerComment>
+  </DisassemblerComments>
+</CheatTable>
