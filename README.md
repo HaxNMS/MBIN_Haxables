@@ -7,9 +7,9 @@ Author: Gaticus Hax
 
 A compilation of CheatEngine CheatTables for No Man's Sky that map the entire data blocks of the MBIN files.  
 Each CheatTable can also automatically hook to RAM for realtime edits while the game is running.  
-These are designed mainly as a modding tool and for reverse-engineering NMS although they can also be used for a super-charged trainer.  
+These are designed as a modding tool for NMS.
 
-**These are for advanced users only. you should already know how to hex edit, how C-style data structures are
+**These are for advanced users only. You should already know how to hex edit, how C-style data structures are
 serialized in binary and how process memory works.**
 
 
